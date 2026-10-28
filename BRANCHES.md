@@ -1,0 +1,46 @@
+# 分支约定（TPEN ESP 双人协作）
+
+主线只有一个：`master`。三条功能分支按方向切，谁做什么就待在谁的分支里，**不要直接往 master 提**。
+
+## 分支表
+
+| 分支 | 方向 | 目录归属 | 说明 |
+|---|---|---|---|
+| `master` | 主线 / 集成 | — | 只接受三个功能分支的 merge，不直接开发 |
+| `feat/single-trans` | 单透（ESP 透视） | `branches/single-trans/` | 采集端 → esp.txt → overlay 渲染链路 |
+| `feat/decrypt` | 解密（坐标解密开关） | `branches/decrypt/` | `ov_cfg` 的 dec/dec2/dec3/dec4 四档 |
+| `feat/aimbot` | 自瞄 | `branches/aimbot/` | abu-aim 像素瞄准 / js-aim 驱动侧 |
+
+## 规矩
+
+1. **目录隔离**：每条分支只改自己 `branches/<方向>/` 下的文件。碰别人目录一定冲突。
+2. **公共代码走 master**：要改 `tpen_app/`、`tpen_kernel/`、`tpen-esp-portable/`、`tpen_v33/` 这种公共内核，先在群里说一声，改完走 PR 进 master，再由其它分支 `git merge master` 同步。
+3. **对齐节奏**：每完成一个可验证节点，就 `git merge master` 拉一次，然后提 PR 回 master。两边 master 必须一致。
+4. **不推二进制垃圾**：调试截图、日志、临时 dump 一律不进仓库（`.gitignore` 已挡）。
+
+## 日常命令
+
+```bash
+# 拉主线最新
+git checkout master && git pull
+
+# 回到自己的方向分支并同步主线
+git checkout feat/single-trans
+git merge master
+
+# 干完活提交
+git add -A && git commit -m "single-trans: 修 xxx"
+git push
+
+# 对齐：到网页提 PR，对方 review 后合进 master
+```
+
+## 首次 clone
+
+```bash
+git clone git@gitee.com:nannan530/tpen-esp.git
+cd tpen-esp
+git branch -a          # 看得到全部四条
+```
+
+> 仓库是私有的，克隆前要把自己的 SSH 公钥挂到 Gitee 账号（设置 → SSH 公钥），否则会 `Permission denied (publickey)`。
