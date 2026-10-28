@@ -28,7 +28,7 @@ master              主线，只收 merge，不直接开发
 |---|---|
 | `tpen_app/` | **主战场**：内核启动器 APK 工程（com.tpen.esp）。`assets/p` 内核二进制、`assets/ov.dex` 悬浮窗、`out/TPEN.apk` 最新构建（剔除自瞄版） |
 | `tpen_kernel/` | 内核工程副本 |
-| `tpen_v33/TPEN_ESP_v33/` | v33 工程：`src/Java/Ov50.java` 悬浮窗主逻辑、`scripts/` 部署脚本、`CHANGELOG-ALL.md` 完整变更史 |
+| `tpen_v40/TPEN_ESP_v40/` | v33 工程：`src/Java/Ov50.java` 悬浮窗主逻辑、`scripts/` 部署脚本、`CHANGELOG-ALL.md` 完整变更史 |
 | `tpen-esp-portable/` | 可移植版，`versions/` 有 v4.5.0~v4.7.0 快照，`snapshots/` 是 enc_on / noenc_hot 两种现场抓包 |
 | `abu-aim/` | 自瞄实验：`AimProvider`/`PixelAimProvider`，`patch_wgn_kernel.py` |
 | `js-aim/` | 自瞄实验二：Windows 内核驱动 `JianShangAim.sys` + 用户态 |

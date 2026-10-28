@@ -14,7 +14,7 @@
 ## 规矩
 
 1. **目录隔离**：每条分支只改自己 `branches/<方向>/` 下的文件。碰别人目录一定冲突。
-2. **公共代码走 master**：要改 `tpen_app/`、`tpen_kernel/`、`tpen-esp-portable/`、`tpen_v33/` 这种公共内核，先在群里说一声，改完走 PR 进 master，再由其它分支 `git merge master` 同步。
+2. **公共代码走 master**：要改 `tpen_app/`、`tpen_kernel/`、`tpen-esp-portable/`、`tpen_v40/` 这种公共内核，先在群里说一声，改完走 PR 进 master，再由其它分支 `git merge master` 同步。
 3. **对齐节奏**：每完成一个可验证节点，就 `git merge master` 拉一次，然后提 PR 回 master。两边 master 必须一致。
 4. **不推二进制垃圾**：调试截图、日志、临时 dump 一律不进仓库（`.gitignore` 已挡）。
 

@@ -76,9 +76,9 @@ typedef struct _JS_REQ {
 
 ## v33 里的自瞄补丁（历史）
 
-- `tpen_v33/TPEN_ESP_v33/patch_aim.py` / `patch_aim2.py` —— 给 Ov50 打自瞄补丁的脚本
-- `tpen_v33/TPEN_ESP_v33/src/Java/Ov50.java.bak_aim` —— **带自瞄的旧备份**，当前主线版本已剔除
-- `tpen_v33/TPEN_ESP_v33/out/aim.jar` —— 当时的构建产物
+- `tpen_v40/TPEN_ESP_v40/patch_aim.py` / `patch_aim2.py` —— 给 Ov50 打自瞄补丁的脚本
+- `tpen_v40/TPEN_ESP_v40/src/Java/Ov50.java.bak_aim` —— **带自瞄的旧备份**，当前主线版本已剔除
+- `tpen_v40/TPEN_ESP_v40/out/aim.jar` —— 当时的构建产物
 
 要看旧自瞄逻辑，对比 `Ov50.java.bak_aim` 和当前的 `Ov50.java` 就是全部差异。
 

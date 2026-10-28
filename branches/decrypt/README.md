@@ -26,7 +26,7 @@ adb shell su -c 'sh /data/local/tmp/.c/start_col.sh'
 adb shell su -c 'sh /data/local/tmp/.c/deploy_ov.sh'
 ```
 
-`tpen_v33/TPEN_ESP_v33/scripts/` 下有 `start_col.sh`（采集端）、`start_ov.sh` / `deploy_ov.sh`（overlay），整链在 `tpen-esp-portable/.../tools/start_esp.sh`。
+`tpen_v40/TPEN_ESP_v40/scripts/` 下有 `start_col.sh`（采集端）、`start_ov.sh` / `deploy_ov.sh`（overlay），整链在 `tpen-esp-portable/.../tools/start_esp.sh`。
 
 ## 验证（这一步有坑，务必照做）
 

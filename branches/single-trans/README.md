@@ -76,4 +76,4 @@ cat_n_med / ammo / weapon / tool / bag / drawer / wardrobe / jacket / pc / file 
 ## 这条分支能改什么
 
 - `cfg/ov_cfg.single-trans.ini` —— 单透推荐配置（本目录内）
-- 只动本目录。要改 overlay 的渲染逻辑（`tpen_v33/TPEN_ESP_v33/src/Java/Ov50.java`），走 master PR。
+- 只动本目录。要改 overlay 的渲染逻辑（`tpen_v40/TPEN_ESP_v40/src/Java/Ov50.java`），走 master PR。

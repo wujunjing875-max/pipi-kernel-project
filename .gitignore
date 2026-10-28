@@ -17,3 +17,16 @@ out/aligned.apk
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# ===== v40 补充：构建中间产物 =====
+tpen_v40/TPEN_ESP_v40/out/
+out/ovcls/
+out/ovdex/
+out/aimdex/
+*.jar
+
+# ===== v40 补充：大体积二进制，禁止新增入库 =====
+# 已入库的历史文件不受此规则影响，需单独清理（git rm --cached）
+# 注意：*.tcol 是掩体透视的功能数据，不能挡
+*.apk
+*.zip
