@@ -1,0 +1,41 @@
+# 容器类别判定：关键字(小写, 子串匹配)  类别key
+# 后面的行覆盖前面的；类别key 见面板里列的 22 类
+# 通用基类 BP_ContainerBase_C / BP_RewardBox_C 的名字里没有类型，
+# 靠实例名区分，实测：vestContainer/ChestRigs=弹挂背包，MyContainer_*=背包
+# 通用规则写前面
+deathboxplayer n_box_player
+deathboxpmc n_box_player
+playerbox n_box_player
+deathbox n_box_bot
+corpse n_box_bot
+rewardbox n_box_player
+safebox n_safebox
+vestcontainer n_bag
+chestrigs n_bag
+mycontainer n_bag
+# 具体规则写后面（最长关键字优先，所以越具体越赢）
+deathboxscav n_box_bot
+scav n_box_bot
+gendarmerie n_box_bot
+rogue n_box_bot
+raider n_box_bot
+armybag n_bag
+duffle n_bag
+sling n_bag
+rig n_bag
+toolbox n_tool
+medbox n_med
+ammobox n_ammo
+weaponbox n_weapon
+drawer n_drawer
+wardrobe n_wardrobe
+fridge n_fridge
+washer n_washer
+cashregister n_cash
+filing n_file
+computer n_pc
+jewel n_jewelry
+airdrop n_airdrop
+locker n_locker
+cabinet n_locker
+crate n_crate

@@ -1,0 +1,89 @@
+    // ==================== 雷达（世界坐标直接画） ====================
+    static volatile int radarOn = 0;
+    static volatile float radRange = 8000f;                    // 雷达半径 = 多少世界距离(cm)
+    static volatile int radCx = 560, radCy = 1080, radR = 300;  // 圆心/半径(设备像素)
+    static volatile int radRot = 1;                            // 1=前方朝上  0=北朝上
+    static volatile int radPlayers = 1, radBots = 1, radLoot = 0;
+    static volatile int radBg = 96;                            // 底板不透明度
+
+    static final int RAD_CAP = 192;
+    static volatile int radN = 0;
+    static float[] radX = new float[RAD_CAP], radY = new float[RAD_CAP], radZ = new float[RAD_CAP];
+    static int[] radKind = new int[RAD_CAP];
+    static int[] radUa = new int[RAD_CAP];
+    static int[] radDm2 = new int[RAD_CAP];
+
+    static void drawRadar(Object c) throws Exception {
+        if (!locOk) return;
+        final int cx = radCx, cy = radCy, r = radR;
+        final float range = radRange;
+        final boolean rot = (radRot == 1);
+        // 朝向：视图矩阵第三行 = 相机前向在世界坐标里的分量（世界 XY 归一化）
+        float fx = camM[3], fy = camM[7];
+        float fl = (float)Math.sqrt(fx * fx + fy * fy);
+        if (fl < 1e-5f) { fx = 1f; fy = 0f; } else { fx /= fl; fy /= fl; }
+
+        // 底板
+        mSetColor.invoke(paint, (radBg << 24) | 0x0A1016);
+        mDrawCircle.invoke(c, (float)cx, (float)cy, (float)r, paint);
+        // 外圈 + 内圈 + 十字
+        mSetColor.invoke(wallPaint, 0xB030D0FF);
+        mDrawCircle.invoke(c, (float)cx, (float)cy, (float)r, wallPaint);
+        mSetColor.invoke(wallPaint, 0x382FD6FF);
+        mDrawCircle.invoke(c, (float)cx, (float)cy, r * 0.6667f, wallPaint);
+        mDrawCircle.invoke(c, (float)cx, (float)cy, r * 0.3333f, wallPaint);
+        mDrawLine.invoke(c, (float)(cx - r), (float)cy, (float)(cx + r), (float)cy, wallPaint);
+        mDrawLine.invoke(c, (float)cx, (float)(cy - r), (float)cx, (float)(cy + r), wallPaint);
+
+        final float sc = r / range;
+        for (int i = 0; i < radN; i++) {
+            int k = radKind[i], ua = radUa[i];
+            boolean isChar = (k == 0 || k == 1 || k == 4);
+            int col;
+            float dot;
+            if (isChar) {
+                if (ua == 3 || k == 0)      col = 0xFFFF3B4E;   // 真人
+                else if (ua == 2 || k == 4) col = 0xFFFF9A1F;   // 伪装/人机玩家
+                else                        col = 0xFFFFE04D;   // 人机
+                if (radPlayers == 0 && radBots == 0) continue;
+                dot = 9f;
+            } else {
+                if (radLoot == 0) continue;
+                col = 0xFF44DDA0;                               // 物资/容器
+                dot = 5f;
+            }
+            float dx = radX[i] - locX, dy = radY[i] - locY;
+            float rx, ry;
+            if (rot) { rx = dx * fy - dy * fx; ry = dx * fx + dy * fy; }
+            else     { rx = dx;               ry = -dy; }
+            float px = cx + rx * sc, py = cy - ry * sc;
+            float ex = px - cx, ey = py - cy;
+            float el = (float)Math.sqrt(ex * ex + ey * ey);
+            int al = 0xFF;
+            if (el > r - dot) {
+                if (!isChar) continue;                          // 物资超范围直接不画
+                if (el < 1f) continue;
+                px = cx + ex / el * (r - dot);                   // 角色贴边显示
+                py = cy + ey / el * (r - dot);
+                al = 0x8C;
+            }
+            mSetColor.invoke(paint, (al << 24) | (col & 0xFFFFFF));
+            mDrawCircle.invoke(c, px, py, dot, paint);
+        }
+        // 自己：中心白点 + 前方指引线
+        mSetColor.invoke(paint, 0xFFFFFFFF);
+        mDrawCircle.invoke(c, (float)cx, (float)cy, 7f, paint);
+        mSetColor.invoke(wallPaint, 0xFFE8F4FF);
+        mDrawLine.invoke(c, (float)cx, (float)cy, (float)cx, (float)(cy - r * 0.42f), wallPaint);
+        // 北向刻度（旋转模式下指南）
+        if (rot) {
+            float nx = -fx, ny = fy;
+            float nl = (float)Math.sqrt(nx * nx + ny * ny);
+            if (nl > 1e-4f) {
+                nx /= nl; ny /= nl;
+                mSetColor.invoke(wallPaint, 0xCCFF8080);
+                mDrawLine.invoke(c, cx + nx * (r - 30), cy - ny * (r - 30),
+                                    cx + nx * (r - 8),  cy - ny * (r - 8), wallPaint);
+            }
+        }
+    }

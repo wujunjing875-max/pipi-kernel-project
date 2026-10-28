@@ -1,0 +1,828 @@
+/storage/emulated/0/Android/data/com.tencent.mf.uam:
+total 6
+drwxrws---  5 u0_a343 ext_data_rw 3440 2026-10-25 18:51 cache
+drwxrws--- 10 u0_a343 ext_data_rw 3440 2026-10-25 18:51 files
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache:
+total 17
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 EstvShadowPlugin_shadow-app
+-rw-rw---- 1 u0_a343 ext_data_rw  202 2026-10-25 18:43 GCloud.config
+drwxrws--- 5 u0_a343 ext_data_rw 3440 2026-10-25 18:43 GCloudSDKLog
+drwxrws--- 4 u0_a343 ext_data_rw 3440 2026-10-25 18:51 GameJoyRecorder
+-rw-rw---- 1 u0_a343 ext_data_rw  906 2026-10-25 18:43 RemoteConfig.config
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/EstvShadowPlugin_shadow-app:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GCloudSDKLog:
+total 9
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 GCloud
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 GCloudCore
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 GPMSDK
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GCloudSDKLog/GCloud:
+total 996
+-rw-rw---- 1 u0_a343 ext_data_rw 1017952 2026-10-25 18:51 GCloud_2026102518.log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GCloudSDKLog/GCloudCore:
+total 24
+-rw-rw---- 1 u0_a343 ext_data_rw 21500 2026-10-25 18:53 GCloudCore_2026102518.log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GCloudSDKLog/GPMSDK:
+total 244
+-rw-rw---- 1 u0_a343 ext_data_rw 248638 2026-10-25 18:53 GPMSDK_2026102518.log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GameJoyRecorder:
+total 6
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 logs
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 mmcodec
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GameJoyRecorder/logs:
+total 3
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 2026-10-25
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GameJoyRecorder/logs/2026-10-25:
+total 4
+-rw-rw---- 1 u0_a343 ext_data_rw 1376 2026-10-25 18:51 1.com.vasd.pandora.srp.log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/cache/GameJoyRecorder/mmcodec:
+total 4
+-rw-rw---- 1 u0_a343 ext_data_rw 347 2026-10-25 18:51 2026-10-25-mmcodec-jni.log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files:
+total 40
+-rw-rw---- 1 u0_a343 ext_data_rw  263 2026-10-25 18:43 AppVersionCache.txt
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:51 Download
+-rw-rw---- 1 u0_a343 ext_data_rw  255 2026-10-25 18:51 HANYCJLZOEUS_TOKEN2.dat
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:49 ProgramBinaryCache
+drwxrws--- 4 u0_a343 ext_data_rw 3440 2026-10-25 18:43 TGPA
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 UE4Game
+-rw------- 1 u0_a343 ext_data_rw 1032 2026-10-25 18:53 g6_player_prefs.ini
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 gv_dump
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:51 midas
+drwxrws--- 4 u0_a343 ext_data_rw 3440 2026-10-25 18:43 pixui
+-rw------- 1 u0_a343 ext_data_rw    9 2026-10-25 18:50 program_version.txt
+drwxrws--- 4 u0_a343 ext_data_rw 3440 2026-10-25 18:51 tencent
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/Download:
+total 3
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 ingameOfflinePackage
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/Download/ingameOfflinePackage:
+total 1252
+-rw-rw---- 1 u0_a343 ext_data_rw     529 2026-10-25 18:51 323436981f968f7ed2e81e0dd286ca68_actvieBg.png
+-rw-rw---- 1 u0_a343 ext_data_rw    1021 2026-10-25 18:51 3fbcaeb4750b724407d61a4c649cf611_4237.json
+-rw-rw---- 1 u0_a343 ext_data_rw  155173 2026-10-25 18:51 821d025f3d7a574d0f7c75d2c859a26d_vendor.android.js
+-rw-rw---- 1 u0_a343 ext_data_rw 1113726 2026-10-25 18:51 8b252f8c074067593684d39e63ee8348_index.android.js
+-rw-rw---- 1 u0_a343 ext_data_rw     723 2026-10-25 18:51 cacheConfig.hashmap
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/ProgramBinaryCache:
+total 106236
+-rw------- 1 u0_a343 ext_data_rw 108667256 2026-10-25 18:49 GLSL_ES3_1_ANDROID_F974C8BD02576DD834E605424A65F94A99F91C46
+-rw------- 1 u0_a343 ext_data_rw        86 2026-10-25 18:44 glesversion
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/TGPA:
+total 6
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Log
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 PreDownload
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/TGPA/Log:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/TGPA/PreDownload:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game:
+total 3
+drwxrws--- 4 u0_a343 ext_data_rw 3440 2026-10-25 18:43 UAGame
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame:
+total 10
+drwxr-s--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Engine
+-rw------- 1 u0_a343 ext_data_rw  128 2026-10-25 18:43 Manifest_UFSFiles_Android.txt
+-rw------- 1 u0_a343 ext_data_rw    0 2026-10-25 18:43 NotAllowedUnattendedBugReports
+drwxrws--- 4 u0_a343 ext_data_rw 3440 2026-10-25 18:50 UAGame
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/Engine:
+total 3
+drwxr-s--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Saved
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/Engine/Saved:
+total 3
+drwxr-s--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Config
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/Engine/Saved/Config:
+total 3
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Android
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/Engine/Saved/Config/Android:
+total 4
+-rw------- 1 u0_a343 ext_data_rw 40 2026-10-25 18:43 Manifest.ini
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame:
+total 6
+drwxr-s---  3 u0_a343 ext_data_rw 3440 2026-10-25 18:50 Config
+drwxrws--- 14 u0_a343 ext_data_rw 3440 2026-10-25 18:51 Saved
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Config:
+total 3
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:50 Android
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Config/Android:
+total 4
+-rw------- 1 u0_a343 ext_data_rw 1 2026-10-25 18:50 UserSettingUseGLES31.ini
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved:
+total 97282
+drwxrws--- 2 u0_a343 ext_data_rw     3440 2026-10-25 18:43 1.0.167.167
+drwxr-s--- 3 u0_a343 ext_data_rw     3440 2026-10-25 18:43 Automation
+drwxr-s--- 3 u0_a343 ext_data_rw     3440 2026-10-25 18:51 CDNCached
+-rw------- 1 u0_a343 ext_data_rw        4 2026-10-25 18:51 CacheShowMovie
+drwxr-s--- 4 u0_a343 ext_data_rw     3440 2026-10-25 18:43 Config
+drwxr-s--- 2 u0_a343 ext_data_rw     3440 2026-10-25 18:43 Logs
+drwxr-s--- 2 u0_a343 ext_data_rw    53248 2026-10-25 18:53 PakCache
+drwxr-s--- 5 u0_a343 ext_data_rw     3440 2026-10-25 18:50 Pandora
+drwxr-s--- 2 u0_a343 ext_data_rw     3440 2026-10-25 18:51 PandoraLogs
+drwxr-s--- 3 u0_a343 ext_data_rw     3440 2026-10-25 18:44 RemotePSO
+-rw------- 1 u0_a343 ext_data_rw       13 2026-10-25 18:43 ResUpdateFlag.txt
+-rw------- 1 u0_a343 ext_data_rw      120 2026-10-25 18:51 VeteranFlag.txt
+drwxr-s--- 3 u0_a343 ext_data_rw     3440 2026-10-25 18:49 dlc
+-rw------- 1 u0_a343 ext_data_rw       17 2026-10-25 18:43 gleshashexec.txt
+drwxr-s--- 3 u0_a343 ext_data_rw    24576 2026-10-25 18:43 patch
+-rw-r----- 1 u0_a343 ext_data_rw 99401728 2026-10-25 18:46 preloadshader.sqlite
+drwxr-s--- 2 u0_a343 ext_data_rw     3440 2026-10-25 18:44 puffer_progress
+-rw------- 1 u0_a343 ext_data_rw       16 2026-10-25 18:49 show_case_movie.txt
+-rw------- 1 u0_a343 ext_data_rw       43 2026-10-25 18:51 uagamelogincache.txt
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/1.0.167.167:
+total 4
+-rw------- 1 u0_a343 ext_data_rw 734 2026-10-25 18:43 AndroidCacheFiles.txt
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Automation:
+total 3
+drwxr-s--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Tmp
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Automation/Tmp:
+total 8
+drwxr-s--- 2 u0_a343 ext_data_rw 8192 2026-10-25 18:54 RuntimeStreamedData
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Automation/Tmp/RuntimeStreamedData:
+total 8304
+-rw------- 1 u0_a343 ext_data_rw 291004 2026-10-25 18:54 SkeletalM_1ABCA35C08DF32C954DD043630D2E68D.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 412428 2026-10-25 18:53 Tex_1871646B08DF32C94BEB12002FEDE7EF.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 102156 2026-10-25 18:53 Tex_1874228D08DF32C94BF24AD42FEEA0CF.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  24588 2026-10-25 18:53 Tex_1875B1A908DF32C94BF6746A2FEF0B5F.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 412428 2026-10-25 18:53 Tex_189CA66608DF32C94D7F95FA30165B87.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 102156 2026-10-25 18:53 Tex_189D2D9408DF32C94D861B6E30170279.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  24588 2026-10-25 18:53 Tex_189E486708DF32C94D8B4ABC30178734.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 491276 2026-10-25 18:53 Tex_18A7E17008DF32C94F16458A303F06B0.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 122636 2026-10-25 18:53 Tex_18A804E508DF32C94F188886303F4096.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  30476 2026-10-25 18:53 Tex_18A9E24508DF32C94F1B4DC8303F8782.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 489740 2026-10-25 18:53 Tex_1A54825208DF32C950A390A63066C165.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 121100 2026-10-25 18:53 Tex_1A55FB7F08DF32C950A97A98306758C9.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  28940 2026-10-25 18:53 Tex_1A56F6A008DF32C950AE4D5C3067D444.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 614092 2026-10-25 18:53 Tex_1A88DB4208DF32C95232CD6A308EADDF.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  38092 2026-10-25 18:53 Tex_1A896CAD08DF32C952369C9C308F0F63.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw   9996 2026-10-25 18:53 Tex_1A8A136208DF32C95238E7EA308F4A20.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 549900 2026-10-25 18:53 Tex_1A9702F308DF32C953C4361E30B6D1F1.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 136204 2026-10-25 18:53 Tex_1A98EACE08DF32C953CA4BE430B76DB8.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  32780 2026-10-25 18:53 Tex_1A99452908DF32C953CE663E30B7D6C1.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  21132 2026-10-25 18:54 Tex_1ABA2BB408DF32C954D8A0E430D27637.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw   4332 2026-10-25 18:54 Tex_1ABB67D108DF32C954DA7EE630D2A605.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 796172 2026-10-25 18:54 Tex_1ABF1F6808DF32C955696AAC30E0F0CC.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 197132 2026-10-25 18:54 Tex_1AC0532308DF32C9556FC67230E19393.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  47372 2026-10-25 18:54 Tex_1AC1772608DF32C9557695CE30E241E9.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 315660 2026-10-25 18:54 Tex_1AD03A8908DF32C957001AA031099BFE.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  78092 2026-10-25 18:54 Tex_1AD1857908DF32C95703A8283109F6F2.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  22668 2026-10-25 18:54 Tex_1AD2462B08DF32C95705A614310A29F0.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 446220 2026-10-25 18:54 Tex_1AF39C3008DF32C9587EEB5E312FE411.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 110348 2026-10-25 18:54 Tex_1AF49A6C08DF32C958817F403130260E.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  26380 2026-10-25 18:54 Tex_1AF5808D08DF32C95884B7DC31307884.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 614092 2026-10-25 18:54 Tex_1AFEE25808DF32C95A01FE3A31569927.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  38092 2026-10-25 18:54 Tex_1AFF2B2008DF32C95A07C4AA31572CFF.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw   9996 2026-10-25 18:54 Tex_1B000FF008DF32C95A0BE7C4315796E8.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 491276 2026-10-25 18:54 Tex_1B1815B308DF32C95DA80A7A31B400C8.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 122636 2026-10-25 18:54 Tex_1B198AF408DF32C95DAB09FA31B44D87.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  30476 2026-10-25 18:54 Tex_1B1A2CD308DF32C95DAE0B4631B49A75.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 775372 2026-10-25 18:54 Tex_1BA6F3E308DF32C965853272327D5193.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw 191692 2026-10-25 18:54 Tex_1BA7B14008DF32C96587CD5C327D9444.ubulk.runtime
+-rw------- 1 u0_a343 ext_data_rw  45772 2026-10-25 18:54 Tex_1BA84C1208DF32C9658BE054327DFC8F.ubulk.runtime
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/CDNCached:
+total 3
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 zh-Hans
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/CDNCached/zh-Hans:
+total 424
+-rw------- 1 u0_a343 ext_data_rw 126038 2026-10-25 18:51 0891487111aa64593ca4237fc02b23aa.png
+-rw------- 1 u0_a343 ext_data_rw   3762 2026-10-25 18:51 91f2f737dc01481a85acaa0161dd126e.png
+-rw------- 1 u0_a343 ext_data_rw  63092 2026-10-25 18:51 955721432baeb6461a39470c69ad824d.png
+-rw------- 1 u0_a343 ext_data_rw   9449 2026-10-25 18:51 9f6346ce9a45966b7de8a973b311a563
+-rw------- 1 u0_a343 ext_data_rw  89189 2026-10-25 18:51 a3a0804b571d3141c71a87ed1e15c0c3.png
+-rw------- 1 u0_a343 ext_data_rw  68265 2026-10-25 18:51 d5a43ba42beb27c40fa6ee98f3e74c6d.png
+-rw------- 1 u0_a343 ext_data_rw  64535 2026-10-25 18:51 e86018ee407eda187b6bcc5095d9560f.png
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Config:
+total 6
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 Android
+drwxr-s--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:43 CrashReportClient
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Config/Android:
+total 200
+-rw------- 1 u0_a343 ext_data_rw     24 2026-10-25 18:43 DeviceConsoleConfig.ini
+-rw------- 1 u0_a343 ext_data_rw     24 2026-10-25 18:43 DeviceQualityScalability.ini
+-rw------- 1 u0_a343 ext_data_rw   7000 2026-10-25 18:50 Engine.ini
+-rw------- 1 u0_a343 ext_data_rw    392 2026-10-25 18:51 FrontEnd.ini
+-rw------- 1 u0_a343 ext_data_rw    376 2026-10-25 18:53 GameUserSettings.ini
+-rw------- 1 u0_a343 ext_data_rw     24 2026-10-25 18:43 MemoryScalability.ini
+-rw------- 1 u0_a343 ext_data_rw     24 2026-10-25 18:43 ResolutionDefaultQuality.ini
+-rw------- 1 u0_a343 ext_data_rw 170392 2026-10-25 18:51 UserDefineConfig.ini
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Config/CrashReportClient:
+total 3
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:43 UE4CC-Android-000630FD08DF32C7D5465A020A7708BB
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Config/CrashReportClient/UE4CC-Android-000630FD08DF32C7D5465A020A7708BB:
+total 4
+-rw------- 1 u0_a343 ext_data_rw 120 2026-10-25 18:43 CrashReportClient.ini
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Logs:
+total 6808
+-rw------- 1 u0_a343 ext_data_rw 6960008 2026-10-25 18:55 UAGame.log
+-rw------- 1 u0_a343 ext_data_rw      29 2026-10-25 18:43 VerionStack.txt
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/PakCache:
+total 571448
+-rw------- 1 u0_a343 ext_data_rw 1530394 2026-10-25 18:52 003210442e5b584ce947db09daeb011c25cd4456.pak
+-rw------- 1 u0_a343 ext_data_rw 2863587 2026-10-25 18:52 0050acbd9572d3dbec2470e27a8d5105cb3a67f9.pak
+-rw------- 1 u0_a343 ext_data_rw 2060922 2026-10-25 18:52 017805b51ed6bbbb5ddadb9ce2b67e5c7f233d4c.pak
+-rw------- 1 u0_a343 ext_data_rw 2854822 2026-10-25 18:52 0380a0bc9a0e08aad0f8710ade0ad2c26bef063b.pak
+-rw------- 1 u0_a343 ext_data_rw 1169873 2026-10-25 18:52 03d5400b1aab8d4605de870ddb4275ec9b75c4cc.pak
+-rw------- 1 u0_a343 ext_data_rw 2696977 2026-10-25 18:52 04616c1d5ad9c206669f30118fa23a15c130d686.pak
+-rw------- 1 u0_a343 ext_data_rw 1549853 2026-10-25 18:52 060b15ab9573daa4af892ee90154cb12e8532e13.pak
+-rw------- 1 u0_a343 ext_data_rw 2565015 2026-10-25 18:52 067836d863c12e47173eac89e029a2e611bd0e24.pak
+-rw------- 1 u0_a343 ext_data_rw 1992612 2026-10-25 18:52 06b5b689a0d5ee1fea87cbbfbe66356a814003d3.pak
+-rw------- 1 u0_a343 ext_data_rw 2011554 2026-10-25 18:52 0a9371fac2b49154b5f32677765b4caf3d2e33ef.pak
+-rw------- 1 u0_a343 ext_data_rw 1087703 2026-10-25 18:52 0ab775bcc3d8ce89dffb88d7e4743a85131eed0b.pak
+-rw------- 1 u0_a343 ext_data_rw 1564151 2026-10-25 18:52 0b364f9eb101585e59a0a579f0c87e26a6659376.pak
+-rw------- 1 u0_a343 ext_data_rw 1955158 2026-10-25 18:52 0b8a132c7c57e907515d8ad246e38f179cfbe279.pak
+-rw------- 1 u0_a343 ext_data_rw 1938169 2026-10-25 18:52 0d8a292d94810fc79deeae4814ba96aa1c952258.pak
+-rw------- 1 u0_a343 ext_data_rw 1491234 2026-10-25 18:52 0d8c9580f31bf21cf8bf63a1e9dac0ceb2ae7f28.pak
+-rw------- 1 u0_a343 ext_data_rw 2609548 2026-10-25 18:52 1006022a38cc302ef6f822597f69757d0adb6c1f.pak
+-rw------- 1 u0_a343 ext_data_rw 1931093 2026-10-25 18:52 1068036ebc72e3df0ebba37eeca477bc21063159.pak
+-rw------- 1 u0_a343 ext_data_rw 2370727 2026-10-25 18:52 118e5b408f4419538a21a394dd551346582309a3.pak
+-rw------- 1 u0_a343 ext_data_rw 1536412 2026-10-25 18:52 126477cde00caafef63690bda08b3f9f571c5981.pak
+-rw------- 1 u0_a343 ext_data_rw 1932044 2026-10-25 18:52 15280d1c492880df68c7dd9a84eaed95913e15e0.pak
+-rw------- 1 u0_a343 ext_data_rw 2029383 2026-10-25 18:52 1a8b1b665a02d7442160344c3487015557a32c36.pak
+-rw------- 1 u0_a343 ext_data_rw 1718515 2026-10-25 18:52 1ad91c838c119e2ccc4d04cadbf544b54870e1bc.pak
+-rw------- 1 u0_a343 ext_data_rw 1491267 2026-10-25 18:52 1bb17552d06e9504f09fad050367e276054f362f.pak
+-rw------- 1 u0_a343 ext_data_rw 1976773 2026-10-25 18:52 1bca5dba5afd4adb9a4b3bfb1949c88973a6794d.pak
+-rw------- 1 u0_a343 ext_data_rw 2329649 2026-10-25 18:52 1d4b8a96b5903f737ebc65d19f119a9c435d3a7d.pak
+-rw------- 1 u0_a343 ext_data_rw 1992022 2026-10-25 18:52 1fc179e3349434a4836415ff3c0c987562090c57.pak
+-rw------- 1 u0_a343 ext_data_rw 1948668 2026-10-25 18:52 218305f9852d56f06a9487ca225c3554cd8bf5b4.pak
+-rw------- 1 u0_a343 ext_data_rw 1537073 2026-10-25 18:52 2e21c3d5b014a5025b5479c91dfd4ea737e0ccca.pak
+-rw------- 1 u0_a343 ext_data_rw 1771180 2026-10-25 18:52 3203d9102f6c5db7cdd10ee577f1192a3dd5440f.pak
+-rw------- 1 u0_a343 ext_data_rw 2215470 2026-10-25 18:52 323e9f5b3a5b2844a6256a10f4de185d64df5dc9.pak
+-rw------- 1 u0_a343 ext_data_rw 1747791 2026-10-25 18:52 345102a6cebc536809eba9ab8b8031ff6d97ac72.pak
+-rw------- 1 u0_a343 ext_data_rw 1449294 2026-10-25 18:52 36a7016271eaf77cb0ddf1f16e1869f9a8a6bd37.pak
+-rw------- 1 u0_a343 ext_data_rw 2384472 2026-10-25 18:52 3a7d69d82165c13f717449f8f078f0eb5fd20f74.pak
+-rw------- 1 u0_a343 ext_data_rw 4286301 2026-10-25 18:52 3ae24eff465dcb4a2fe940b3ed639e8c943a9ebc.pak
+-rw------- 1 u0_a343 ext_data_rw 1744606 2026-10-25 18:52 3cadc857a3da6b286a33662c5500adf56ebad911.pak
+-rw------- 1 u0_a343 ext_data_rw 1695762 2026-10-25 18:52 3cc7c8625d41abb190eb65a1124cd7c73f86a903.pak
+-rw------- 1 u0_a343 ext_data_rw 1921638 2026-10-25 18:52 4156676fa6f9d10db427a88ff8211bfbf5926b78.pak
+-rw------- 1 u0_a343 ext_data_rw 1793548 2026-10-25 18:52 41fa5d495ae070192f002333aefcd656f42d46ab.pak
+-rw------- 1 u0_a343 ext_data_rw 2648600 2026-10-25 18:52 4c6523f71f4e33324d0ed72374655cbb25b60dad.pak
+-rw------- 1 u0_a343 ext_data_rw 2207588 2026-10-25 18:52 4cd874e6ff0beefac793499d7780f96bfc3e5939.pak
+-rw------- 1 u0_a343 ext_data_rw 1789935 2026-10-25 18:52 4cdbb7992aa47020a3f1a0c72825e52d9f14d322.pak
+-rw------- 1 u0_a343 ext_data_rw 1721965 2026-10-25 18:52 4d34305b3afeabd5732f19e6c3a5f4960dcbace5.pak
+-rw------- 1 u0_a343 ext_data_rw 2581994 2026-10-25 18:52 4d483fa190705197c029cad87a46ccda57b863ce.pak
+-rw------- 1 u0_a343 ext_data_rw 1883212 2026-10-25 18:52 4d829350256061406fe08cc2296c88841aae4986.pak
+-rw------- 1 u0_a343 ext_data_rw 2095018 2026-10-25 18:52 4e1de0b6b0e8ca9dd45dfb70630eb0d2caaf1cad.pak
+-rw------- 1 u0_a343 ext_data_rw 3211799 2026-10-25 18:52 50650101dbe3ec5e2c03c2005e297f168c9e0c93.pak
+-rw------- 1 u0_a343 ext_data_rw 2025018 2026-10-25 18:52 5692e21b484af99a2c7611069a948bbc85a1d59a.pak
+-rw------- 1 u0_a343 ext_data_rw 1416569 2026-10-25 18:52 5704115a31fc895463feaa5b9b66acd784ee0212.pak
+-rw------- 1 u0_a343 ext_data_rw 2081914 2026-10-25 18:52 5821cfe260b624a3ac451b4b774677f416a36ae0.pak
+-rw------- 1 u0_a343 ext_data_rw 2048382 2026-10-25 18:52 5dc0a0852b2f6b9f131f808594924c53ea6d9fdc.pak
+-rw------- 1 u0_a343 ext_data_rw 2327963 2026-10-25 18:52 5df853e9ccff32e16d1baa94b702f512f2b73414.pak
+-rw------- 1 u0_a343 ext_data_rw 1529279 2026-10-25 18:52 5ee8f6457a3bd11110533b52165eb3f2498d59d3.pak
+-rw------- 1 u0_a343 ext_data_rw 1544865 2026-10-25 18:52 5f8fb3c6c9386004f4761eb9fba8295a190dfcc7.pak
+-rw------- 1 u0_a343 ext_data_rw 1774944 2026-10-25 18:52 61494fd8269df47012aea539a7d04f22cba48b29.pak
+-rw------- 1 u0_a343 ext_data_rw 1491264 2026-10-25 18:52 62812deef0de22fafbbf8203ef38222f06d575e1.pak
+-rw------- 1 u0_a343 ext_data_rw 2708068 2026-10-25 18:52 643588de6f837478385181e335e80d1ea816763d.pak
+-rw------- 1 u0_a343 ext_data_rw 1010954 2026-10-25 18:52 64d624da1ce81744dc7f707c3c85500c65e236cd.pak
+-rw------- 1 u0_a343 ext_data_rw 1068164 2026-10-25 18:52 650ae376312a205382ff11f0ff9d455fb0bf7e94.pak
+-rw------- 1 u0_a343 ext_data_rw 2431653 2026-10-25 18:52 6862dc953349e124fee43037fdc7b7b487931796.pak
+-rw------- 1 u0_a343 ext_data_rw 2182458 2026-10-25 18:52 6ec383f9b133332a7e4500d6db149a016e367c9f.pak
+-rw------- 1 u0_a343 ext_data_rw 2503721 2026-10-25 18:52 6ee328c36f2889b9652c9a73e7f5e58d4bdcf2d3.pak
+-rw------- 1 u0_a343 ext_data_rw 2158497 2026-10-25 18:52 713d758f66d4f1fc5d7cb77a234472ab1cbc1141.pak
+-rw------- 1 u0_a343 ext_data_rw 1634854 2026-10-25 18:51 72ace10f2c3005d82fc288f54e03bef442a2df9d.pak
+-rw------- 1 u0_a343 ext_data_rw 1846373 2026-10-25 18:51 72cf17fe315db40e7388a5883be8b0d0843caca0.pak
+-rw------- 1 u0_a343 ext_data_rw 1593639 2026-10-25 18:51 737e184d668ac6d3cc0d2a1880725ee10a5f1760.pak
+-rw------- 1 u0_a343 ext_data_rw 1918149 2026-10-25 18:51 74b996ea3b071a37598ba3dc5898160bdc536bca.pak
+-rw------- 1 u0_a343 ext_data_rw 1559099 2026-10-25 18:51 75de85852269835d53316bde70d26fbb5d774402.pak
+-rw------- 1 u0_a343 ext_data_rw 1601342 2026-10-25 18:51 7926fc2b6bea2329616f47df06495290e8f653e3.pak
+-rw------- 1 u0_a343 ext_data_rw 1925331 2026-10-25 18:51 797c51298fe456f642f0bcc76b8a47a2985275ea.pak
+-rw------- 1 u0_a343 ext_data_rw 1454251 2026-10-25 18:51 799c862d04ef896cea020e54d0c364c767a10507.pak
+-rw------- 1 u0_a343 ext_data_rw 1966509 2026-10-25 18:51 7c82fca8985926d25f7458b0f250d5c79e34195e.pak
+-rw------- 1 u0_a343 ext_data_rw 1721416 2026-10-25 18:51 7fd761b75fe9eb7250d34a388353abb0cf694a2f.pak
+-rw------- 1 u0_a343 ext_data_rw 1525935 2026-10-25 18:51 7fdc341729c332ddc792870d048d4e61e18cd679.pak
+-rw------- 1 u0_a343 ext_data_rw 2073340 2026-10-25 18:51 81035106c744b98264b9a266ff667247bc3346f3.pak
+-rw------- 1 u0_a343 ext_data_rw 2449862 2026-10-25 18:51 8678d7f912ef405de1950116b316d5f470c8289f.pak
+-rw------- 1 u0_a343 ext_data_rw 2308345 2026-10-25 18:51 876b74afc8216732a353f9825e4211e0de1fafb2.pak
+-rw------- 1 u0_a343 ext_data_rw 2321025 2026-10-25 18:51 8814390739f650f2cb8a8acfba409491c60962cd.pak
+-rw------- 1 u0_a343 ext_data_rw 1456108 2026-10-25 18:51 88a48fb9655c0d1cbabcb5c27540f7af053b6766.pak
+-rw------- 1 u0_a343 ext_data_rw 2384847 2026-10-25 18:51 8a9d335005bd4562c959cf6ddc15c798d6a8a7f0.pak
+-rw------- 1 u0_a343 ext_data_rw 1985528 2026-10-25 18:51 8abea6265ad0a4835fa3d805f62738f85ddd119a.pak
+-rw------- 1 u0_a343 ext_data_rw 2823854 2026-10-25 18:51 92fbd0a0ee87934e5354d830a38da28a81a06b2b.pak
+-rw------- 1 u0_a343 ext_data_rw 3424712 2026-10-25 18:51 935c6871efa1c009e4d99ff4a5174a1a2f5a7c98.pak
+-rw------- 1 u0_a343 ext_data_rw 2245424 2026-10-25 18:51 93743807c79296c48ba1ad408f8c0a8b9b803b8e.pak
+-rw------- 1 u0_a343 ext_data_rw 2010211 2026-10-25 18:51 94a8844e9639fcd15b78c0e97d37efaddca71069.pak
+-rw------- 1 u0_a343 ext_data_rw 1068189 2026-10-25 18:51 988ed0697ee3b3ce78c857c97263d2e3ed9ff943.pak
+-rw------- 1 u0_a343 ext_data_rw 2142469 2026-10-25 18:51 99157da040bd41425224c1ff2940962e425751f6.pak
+-rw------- 1 u0_a343 ext_data_rw 1731471 2026-10-25 18:51 9a69b781205c39308afff2f20a9e1ab5159405a2.pak
+-rw------- 1 u0_a343 ext_data_rw 1785811 2026-10-25 18:51 9be634112a6118918cd3c6c58e1ddb9dc9afb976.pak
+-rw------- 1 u0_a343 ext_data_rw 2258400 2026-10-25 18:51 9be902e40d9c342cb4c92b8f6cd6432969382ba3.pak
+-rw------- 1 u0_a343 ext_data_rw 1980420 2026-10-25 18:51 9d8219004db10c2ace40ef89fcfdc2fb8cd6c269.pak
+-rw------- 1 u0_a343 ext_data_rw 2060594 2026-10-25 18:51 9f6455c55da6402f98cd6e45f820212cc1305651.pak
+-rw------- 1 u0_a343 ext_data_rw 1537035 2026-10-25 18:51 9f8b7078665e0fba4b633665d0d25d3e40c58a0e.pak
+-rw------- 1 u0_a343 ext_data_rw 2326375 2026-10-25 18:51 a10a0f5799c272ad71169f76c856c5c3df4be9be.pak
+-rw------- 1 u0_a343 ext_data_rw 1782270 2026-10-25 18:51 a71f7a8756853eba0cb194fc6fba82b81cd0ffb6.pak
+-rw------- 1 u0_a343 ext_data_rw 1785843 2026-10-25 18:51 a72aa9106cbaa5b1852e4ec778e949a45c3c4f80.pak
+-rw------- 1 u0_a343 ext_data_rw 2307208 2026-10-25 18:51 aaa6afaae50bb571073e9d13f15dbcb95dc822d6.pak
+-rw------- 1 u0_a343 ext_data_rw 1769567 2026-10-25 18:51 accaf43462a6ff54ed489c23972ba695842e1cde.pak
+-rw------- 1 u0_a343 ext_data_rw 1771367 2026-10-25 18:51 ad6498d6cfd85aeee3c45e875666d8b5de9f813a.pak
+-rw------- 1 u0_a343 ext_data_rw 2073305 2026-10-25 18:51 adba060e6fea42b810b7b74f123d36bb6df1f1e3.pak
+-rw------- 1 u0_a343 ext_data_rw 1904466 2026-10-25 18:51 af79b5a087ea7cdf41cf0e4b759a3628549ec71a.pak
+-rw------- 1 u0_a343 ext_data_rw 1565412 2026-10-25 18:51 b73212196be22727667056149a835f5c232a8c47.pak
+-rw------- 1 u0_a343 ext_data_rw 1809392 2026-10-25 18:51 b97b895e1d4f08e074df7ed73989b716078af4f1.pak
+-rw------- 1 u0_a343 ext_data_rw 1784659 2026-10-25 18:51 b99817cf3870ccfb4a3f83bbf306c5549d8c2f2a.pak
+-rw------- 1 u0_a343 ext_data_rw 2026117 2026-10-25 18:51 b9ca349ee4c43ace8ac1118fb8dbfd0e50e40ae0.pak
+-rw------- 1 u0_a343 ext_data_rw 1635779 2026-10-25 18:51 bb48737fd802b6e11fb9329b0aec05a0b34926bd.pak
+-rw------- 1 u0_a343 ext_data_rw 1656350 2026-10-25 18:51 c05bd49bb378b50d44183c3668f5f63503cb16c9.pak
+-rw------- 1 u0_a343 ext_data_rw 2401736 2026-10-25 18:51 c2ca87a0dd1ba487937b4eab4cd1069098690b26.pak
+-rw------- 1 u0_a343 ext_data_rw 2997041 2026-10-25 18:51 c431298e8aa7ede6217aa117ea4187716f5fd153.pak
+-rw------- 1 u0_a343 ext_data_rw 2412668 2026-10-25 18:51 c62fa2df2220d0351ff99500d5e2f359cccd66fc.pak
+-rw------- 1 u0_a343 ext_data_rw 1841110 2026-10-25 18:51 c782798b396977f65f388d9e0784b8e5a1aec279.pak
+-rw------- 1 u0_a343 ext_data_rw 2042512 2026-10-25 18:51 ca3a20cac680d45db1da73524b380bc39b46f4e6.pak
+-rw------- 1 u0_a343 ext_data_rw 2447570 2026-10-25 18:51 cc0257b66e22739a999afe069dd62fc459ee2277.pak
+-rw------- 1 u0_a343 ext_data_rw 2074200 2026-10-25 18:51 cc30127a2117b386988f810e34ee7328acad89b3.pak
+-rw------- 1 u0_a343 ext_data_rw 3487871 2026-10-25 18:53 cc3ebfd4bfa839c5b30bba412feeec88060c7b89.pak
+-rw------- 1 u0_a343 ext_data_rw 2220310 2026-10-25 18:51 ccc5fcbf8a6533840e0d6bb2d9ab3471b53f9ab2.pak
+-rw------- 1 u0_a343 ext_data_rw 1914274 2026-10-25 18:53 ccdfea348fceeb94343a93e95da1a0be76f942bb.pak
+-rw------- 1 u0_a343 ext_data_rw 3574680 2026-10-25 18:53 cce46db61cfad766facb8d4273ad3f5f90bc8ebf.pak
+-rw------- 1 u0_a343 ext_data_rw 1638821 2026-10-25 18:53 cd16262a937360b771fa398519691470684d46be.pak
+-rw------- 1 u0_a343 ext_data_rw 2059325 2026-10-25 18:53 cd330c75b66ea7809866b01c6b8bf69c8d56ea87.pak
+-rw------- 1 u0_a343 ext_data_rw 1768576 2026-10-25 18:51 cda7f0136aa30d605bdfad2398d962a373db217e.pak
+-rw------- 1 u0_a343 ext_data_rw 2923282 2026-10-25 18:53 cdb663786ee1277a3b77ad812438522aebb15f8b.pak
+-rw------- 1 u0_a343 ext_data_rw 1982646 2026-10-25 18:53 cdcfe82b6715b1b18304f6a20c79c5e15de4ff18.pak
+-rw------- 1 u0_a343 ext_data_rw 2624198 2026-10-25 18:53 cdfc23fbcb7b9731d09d81392242b1f42abe88c3.pak
+-rw------- 1 u0_a343 ext_data_rw 2042264 2026-10-25 18:53 ce718bc243b17cf48117458cf66695c19ecf65de.pak
+-rw------- 1 u0_a343 ext_data_rw 2414164 2026-10-25 18:53 cea44327a5c7f309064aa1d11dc8474033aee25f.pak
+-rw------- 1 u0_a343 ext_data_rw 2978434 2026-10-25 18:53 ceb4d16f294bc6059a31cab4d85fe06759bcdd31.pak
+-rw------- 1 u0_a343 ext_data_rw 3454087 2026-10-25 18:53 cef9aad11d7fabce1ffdc4afd71fced21c578cd1.pak
+-rw------- 1 u0_a343 ext_data_rw 2924129 2026-10-25 18:51 cf1e37f1fd5290d49d6fbf12333ad10d65e30af8.pak
+-rw------- 1 u0_a343 ext_data_rw 2919023 2026-10-25 18:53 cf7177f64d22c5d8f391382e828ba11226bd7cab.pak
+-rw------- 1 u0_a343 ext_data_rw 6025830 2026-10-25 18:53 cfb30eacabae35f7879ab6f61c5aa8f7d492660f.pak
+-rw------- 1 u0_a343 ext_data_rw 2085270 2026-10-25 18:51 d076cd6ad019c05f24816aebc60b84ae622843cb.pak
+-rw------- 1 u0_a343 ext_data_rw 3002820 2026-10-25 18:53 d0a720c866aae6f6f6f445a767faf0eb383ddcc9.pak
+-rw------- 1 u0_a343 ext_data_rw 3251871 2026-10-25 18:53 d1124d053c98205962ec47fecd6d635bb6a7390e.pak
+-rw------- 1 u0_a343 ext_data_rw 2241116 2026-10-25 18:53 d173737289ef29b0e4e00412cfb00a6d42017ae2.pak
+-rw------- 1 u0_a343 ext_data_rw 2543594 2026-10-25 18:53 d18eb01d2b2974d7a8444e7d85ff0e6cb956858f.pak
+-rw------- 1 u0_a343 ext_data_rw 2263261 2026-10-25 18:52 d1e9267003e6d31894a1da33c6389be827ef7a6b.pak
+-rw------- 1 u0_a343 ext_data_rw 3843317 2026-10-25 18:53 d23521e0d34c73eeba7ec40f4383d099d6180403.pak
+-rw------- 1 u0_a343 ext_data_rw 3733376 2026-10-25 18:52 d2e15a65c691e6bc3120e9a742f0624aafff2bee.pak
+-rw------- 1 u0_a343 ext_data_rw 1634919 2026-10-25 18:52 d2e4ffe14ab1d5b394e0b40a84f9dfda039566f3.pak
+-rw------- 1 u0_a343 ext_data_rw 3483533 2026-10-25 18:52 d3e0c1518ff5be1bd9f43ae95af0788f7dcf8297.pak
+-rw------- 1 u0_a343 ext_data_rw 2611032 2026-10-25 18:52 d435ff966ce48618ff84febe61cec39ba7f8b233.pak
+-rw------- 1 u0_a343 ext_data_rw 2687105 2026-10-25 18:51 d52c4c899d33bb3e0eb2d4343f979cda949c2c80.pak
+-rw------- 1 u0_a343 ext_data_rw 3719680 2026-10-25 18:52 d5c0cc8df31d4279a0b0769451b281426a3ebd98.pak
+-rw------- 1 u0_a343 ext_data_rw 3417297 2026-10-25 18:52 d5e145fb8dbebdd27e57f250207eac7e1ec9938c.pak
+-rw------- 1 u0_a343 ext_data_rw 2373247 2026-10-25 18:51 d77398438149049fed257bfee9fe02419b94246f.pak
+-rw------- 1 u0_a343 ext_data_rw 3184222 2026-10-25 18:52 d782f033d03374c304eb9cdee4de699f4f87ffb9.pak
+-rw------- 1 u0_a343 ext_data_rw 2368411 2026-10-25 18:52 d796b43dcf65024a2a702387bab35ca690b6054c.pak
+-rw------- 1 u0_a343 ext_data_rw 2308697 2026-10-25 18:52 d833778d8b72bdbda13af59de354950c39c32bd4.pak
+-rw------- 1 u0_a343 ext_data_rw 3640813 2026-10-25 18:52 d8a29e2018b2bf0767569f2624911026cea9531e.pak
+-rw------- 1 u0_a343 ext_data_rw 1680364 2026-10-25 18:51 d8c644864ebb5d0811ef71940cb193230515e4ee.pak
+-rw------- 1 u0_a343 ext_data_rw 3498725 2026-10-25 18:52 d8d114f3eae2d5ec20c60c7ae1f1a36aa5f798e6.pak
+-rw------- 1 u0_a343 ext_data_rw 2186622 2026-10-25 18:52 d99445f5a330086acb8f2de3a571834aa68c50cb.pak
+-rw------- 1 u0_a343 ext_data_rw 2785534 2026-10-25 18:52 dab89b00304e5bcc22e9fd75d7d9c9a980c7b5c3.pak
+-rw------- 1 u0_a343 ext_data_rw 1324839 2026-10-25 18:51 dac6a61c044243da3b02ae0d3b9a946179933ace.pak
+-rw------- 1 u0_a343 ext_data_rw 2201963 2026-10-25 18:52 daead8f3f38d6571a1b2b1cc4c7e64bc7814d516.pak
+-rw------- 1 u0_a343 ext_data_rw 3302662 2026-10-25 18:52 db5d8e19b993de48ee3835c8adce0b1bb1127264.pak
+-rw------- 1 u0_a343 ext_data_rw 4770870 2026-10-25 18:52 db84cf6384441431e7f8ea6b72966d3802c4bb1d.pak
+-rw------- 1 u0_a343 ext_data_rw 2306952 2026-10-25 18:52 dbaaf261d681f727d6d3b83df0e991f648799812.pak
+-rw------- 1 u0_a343 ext_data_rw 2072432 2026-10-25 18:51 dc1a7cdd508329894a913b87882acfad439b1b38.pak
+-rw------- 1 u0_a343 ext_data_rw 5721705 2026-10-25 18:52 dc2f072e28efc5c5d8cd735bdd1714d0850e6477.pak
+-rw------- 1 u0_a343 ext_data_rw 2861704 2026-10-25 18:51 dc40fce60d9e651079e3b7d9c36857f438091f06.pak
+-rw------- 1 u0_a343 ext_data_rw 2058072 2026-10-25 18:52 dc988b25c351917669c48c035af23450da3e1a71.pak
+-rw------- 1 u0_a343 ext_data_rw 2125152 2026-10-25 18:51 dcbd63a4b0964afd0a78044ff4816f45061a7c9c.pak
+-rw------- 1 u0_a343 ext_data_rw 2750336 2026-10-25 18:52 dcc8378b0ac5bf12b037e8b29a594480a8f5034d.pak
+-rw------- 1 u0_a343 ext_data_rw 3306020 2026-10-25 18:52 dcd28bc85a3430d6b09ac5c0aa0a33cafd00f2ab.pak
+-rw------- 1 u0_a343 ext_data_rw 3283249 2026-10-25 18:52 ddb28e03d15c57a388b07c906d0cb6c4dd660cdd.pak
+-rw------- 1 u0_a343 ext_data_rw 2101394 2026-10-25 18:52 dfd5203e6b633c081112f9169b2b1077e44616c9.pak
+-rw------- 1 u0_a343 ext_data_rw 3752247 2026-10-25 18:52 e21554a0d701d53fc170cff7c951290d3f4735f9.pak
+-rw------- 1 u0_a343 ext_data_rw  718252 2026-10-25 18:52 e36708ee7f2dfdfd69dd78893783509654b32a41.pak
+-rw------- 1 u0_a343 ext_data_rw 3731759 2026-10-25 18:52 e46016fcdced8a4603688974a9d217f03b284981.pak
+-rw------- 1 u0_a343 ext_data_rw 2418252 2026-10-25 18:52 e4a08577f7cc59217a1a7720ffd96d78256aed82.pak
+-rw------- 1 u0_a343 ext_data_rw 3214214 2026-10-25 18:52 e4aca8c692d869f5ba9c1b939c93cbaf3553639f.pak
+-rw------- 1 u0_a343 ext_data_rw 2295583 2026-10-25 18:51 e4e5663460602d591b246ea631fef8a8e465dddb.pak
+-rw------- 1 u0_a343 ext_data_rw 1887884 2026-10-25 18:52 e4fff4243b2bac83326271f8c5458789f163ea37.pak
+-rw------- 1 u0_a343 ext_data_rw 2315953 2026-10-25 18:52 e5a99b0682985becd3296a8005b8ac8dfd0b69e4.pak
+-rw------- 1 u0_a343 ext_data_rw 2293556 2026-10-25 18:52 e618d41228e236df5095e71d9275c02b42d060b9.pak
+-rw------- 1 u0_a343 ext_data_rw 1694981 2026-10-25 18:51 e61c7d22d4a85d5f84b560476dc5aea7830716fe.pak
+-rw------- 1 u0_a343 ext_data_rw 2331920 2026-10-25 18:51 e6305656b070aaadfac243c9de55bd8d32e77acc.pak
+-rw------- 1 u0_a343 ext_data_rw 2302005 2026-10-25 18:52 e66d76a0840acc7e3126bc8f9be5aa21966de2e5.pak
+-rw------- 1 u0_a343 ext_data_rw 1814796 2026-10-25 18:52 e6af863c6d82a3367d153714dd19d8dbfa2c5afd.pak
+-rw------- 1 u0_a343 ext_data_rw 3648573 2026-10-25 18:52 e6cc44724bba4a54fc0627a2077d308b51dbc106.pak
+-rw------- 1 u0_a343 ext_data_rw 1524169 2026-10-25 18:51 e6ea58bb31e1ffe317f2f32906501c0f25307b1c.pak
+-rw------- 1 u0_a343 ext_data_rw 3629784 2026-10-25 18:52 e7d451e0845a838676a5ebb8f144b173adbf9a57.pak
+-rw------- 1 u0_a343 ext_data_rw 3222135 2026-10-25 18:52 e8118505238745f12751c0b1fe4af5dc3bc6a343.pak
+-rw------- 1 u0_a343 ext_data_rw 2753548 2026-10-25 18:52 e85fd64dcbf2431c82884063abdd12e02b71f80f.pak
+-rw------- 1 u0_a343 ext_data_rw 2032325 2026-10-25 18:51 e86130d6c74989efac495ff8a29d9d744680846d.pak
+-rw------- 1 u0_a343 ext_data_rw 1817569 2026-10-25 18:52 e8e3646bea967a31a06311ceec3f5add7ac350aa.pak
+-rw------- 1 u0_a343 ext_data_rw 1848772 2026-10-25 18:52 e8e9033f886e1e8044f23e27a70c0ba66df93eff.pak
+-rw------- 1 u0_a343 ext_data_rw 3241092 2026-10-25 18:52 e9fadc4d83a14ff549307e4655ad7f4faf5952a8.pak
+-rw------- 1 u0_a343 ext_data_rw 3474978 2026-10-25 18:52 ea2e0bf2d6f854f5a9fea2ab21f49eb939f9d4b8.pak
+-rw------- 1 u0_a343 ext_data_rw 2953579 2026-10-25 18:52 ea9ed8e15c26cd0aafc8f478b14b9055e435b098.pak
+-rw------- 1 u0_a343 ext_data_rw 3527374 2026-10-25 18:52 eaae1933d4522a8449c2da8da316acae3fc20651.pak
+-rw------- 1 u0_a343 ext_data_rw 1544737 2026-10-25 18:51 eab1028e0890ffda44c0c7e373be90caee2c1c13.pak
+-rw------- 1 u0_a343 ext_data_rw 1796441 2026-10-25 18:51 eb4da12528d7e62cd0dd744d286521b0eb8a1fb3.pak
+-rw------- 1 u0_a343 ext_data_rw 3138161 2026-10-25 18:52 eb9b7af016fb3ad16e4bdc355aa718d1342aaa60.pak
+-rw------- 1 u0_a343 ext_data_rw 2939016 2026-10-25 18:52 ec5defc918db3fb1ce1d252787a71b8cce46c64f.pak
+-rw------- 1 u0_a343 ext_data_rw 2221097 2026-10-25 18:52 ecb0f1f11a6ea4cd791218e9bef9ca098e27ddd4.pak
+-rw------- 1 u0_a343 ext_data_rw 1956048 2026-10-25 18:52 ed97fab707f9add688aac5d1ddfc240e7127aa57.pak
+-rw------- 1 u0_a343 ext_data_rw 1620068 2026-10-25 18:52 eddafe08bb1b15ed3be3c825666a8cebf479f25e.pak
+-rw------- 1 u0_a343 ext_data_rw 2702017 2026-10-25 18:52 eee71fe8a0752d05a6fba3bd6bb8fe961c23d6e4.pak
+-rw------- 1 u0_a343 ext_data_rw 2533768 2026-10-25 18:52 eff9f105f97606c5aef6bd2d6d61c7d3b7d75c31.pak
+-rw------- 1 u0_a343 ext_data_rw 4637915 2026-10-25 18:52 f01237ef1b4e99e77ad4c3efb86f95cea6ee7dfd.pak
+-rw------- 1 u0_a343 ext_data_rw 3010368 2026-10-25 18:52 f013d6fbab82b84d0ccbd0518e969ff5d8c86094.pak
+-rw------- 1 u0_a343 ext_data_rw  779309 2026-10-25 18:51 f084929ab90e3c9ff47ff4376cb6dd703f413a61.pak
+-rw------- 1 u0_a343 ext_data_rw 1761140 2026-10-25 18:52 f0c4f7ce0273b06a29ee62b52f26603033314f09.pak
+-rw------- 1 u0_a343 ext_data_rw 2835820 2026-10-25 18:52 f19e902ead824d1df15f95a47fe063a567e9d0f0.pak
+-rw------- 1 u0_a343 ext_data_rw 2281631 2026-10-25 18:52 f202a7332e54bd77602ed67fa81a97410cab1308.pak
+-rw------- 1 u0_a343 ext_data_rw 2995849 2026-10-25 18:52 f23b6ce80ec5e0ff96bbb8564364c76c96ea9a1f.pak
+-rw------- 1 u0_a343 ext_data_rw 2071462 2026-10-25 18:51 f27c5b813ffa886e0ce1cadbf998ddc0eb43f6ce.pak
+-rw------- 1 u0_a343 ext_data_rw 1846511 2026-10-25 18:51 f2b383270785686e00f34c9dc53f8250c06525d0.pak
+-rw------- 1 u0_a343 ext_data_rw 2379895 2026-10-25 18:52 f2ecf6f9e553b66569438063c43c9213dde94a9e.pak
+-rw------- 1 u0_a343 ext_data_rw 3434028 2026-10-25 18:51 f2f510dd83d8c8755cde53d86733b7bcb3aaf50e.pak
+-rw------- 1 u0_a343 ext_data_rw 1846610 2026-10-25 18:52 f32d2744f6e3db6d010ee783f9202d4180c1dead.pak
+-rw------- 1 u0_a343 ext_data_rw 1903357 2026-10-25 18:52 f36edc6c6f2d89212693eec7312db0dbfe18f05f.pak
+-rw------- 1 u0_a343 ext_data_rw 2343472 2026-10-25 18:52 f47048cbd7aaef98c199b2df8434ca9661117c2e.pak
+-rw------- 1 u0_a343 ext_data_rw 1254425 2026-10-25 18:51 f47570114221e741ee1926e775339966ff2a9b1d.pak
+-rw------- 1 u0_a343 ext_data_rw 5784505 2026-10-25 18:52 f4e718bae3e02455d03e7b111c8cf5935290ea92.pak
+-rw------- 1 u0_a343 ext_data_rw 2768490 2026-10-25 18:52 f4fe08f573e41ca3222aa55ffb97b396120f0d04.pak
+-rw------- 1 u0_a343 ext_data_rw 3329052 2026-10-25 18:52 f512cb40e1d2c778c340058062ee722ae200c5e9.pak
+-rw------- 1 u0_a343 ext_data_rw 2717840 2026-10-25 18:52 f54d421783255709d04ab342e5a7cf262eefcb6e.pak
+-rw------- 1 u0_a343 ext_data_rw 2335866 2026-10-25 18:52 f629793db47b8a422f7a3a71420b8aea624bcf50.pak
+-rw------- 1 u0_a343 ext_data_rw 3325156 2026-10-25 18:52 f679f9faf586675e3e2d8ca8a623fede8136389a.pak
+-rw------- 1 u0_a343 ext_data_rw 2134228 2026-10-25 18:52 f6a090f20ae39edba29bc0e71aa606f6bfd81582.pak
+-rw------- 1 u0_a343 ext_data_rw 2353815 2026-10-25 18:52 f6eb469dcad9fe48efb610f1d67cd480fb421ac7.pak
+-rw------- 1 u0_a343 ext_data_rw 2698990 2026-10-25 18:52 f721be369ed76640d78966395ff09391538868ec.pak
+-rw------- 1 u0_a343 ext_data_rw 2548700 2026-10-25 18:51 f7ab1941eb53f0ff6d811a87089516e78da71fee.pak
+-rw------- 1 u0_a343 ext_data_rw 1952048 2026-10-25 18:52 f804370e82afd84ffc520c392b78e5119f8988fb.pak
+-rw------- 1 u0_a343 ext_data_rw  987409 2026-10-25 18:52 f80ad3f14f2324c9c52632fdbf4cf2de2977c7be.pak
+-rw------- 1 u0_a343 ext_data_rw 4908610 2026-10-25 18:52 f8753ba93a954438008cb560e8e0d0ffcf8bc641.pak
+-rw------- 1 u0_a343 ext_data_rw 2146979 2026-10-25 18:52 f90d8b519540c0948bc12f3247064d191795764b.pak
+-rw------- 1 u0_a343 ext_data_rw 1513036 2026-10-25 18:51 f9145501bde5da7c4efe4cd3fa06a17dc64764f1.pak
+-rw------- 1 u0_a343 ext_data_rw 5337389 2026-10-25 18:52 f96aac4d1cabe24c5b42667dffbec9fad9668fc5.pak
+-rw------- 1 u0_a343 ext_data_rw 1373687 2026-10-25 18:52 f9ef287a4e4ceb3954055097cdab67f6fe03b140.pak
+-rw------- 1 u0_a343 ext_data_rw 2312341 2026-10-25 18:52 fa77a827f953e05fefdb13ea047ea7f6b7a32254.pak
+-rw------- 1 u0_a343 ext_data_rw 2092694 2026-10-25 18:51 fa83994ba036ff1dfe0dd3e86ac9c7c85a3a9abf.pak
+-rw------- 1 u0_a343 ext_data_rw 2188872 2026-10-25 18:52 fab200ec454af0d3d573c1c99b62c9b2ef2ca7a0.pak
+-rw------- 1 u0_a343 ext_data_rw 2112331 2026-10-25 18:52 fadcc35bd425fc1dd55b6b2aa91554aa1b3c132f.pak
+-rw------- 1 u0_a343 ext_data_rw 1792639 2026-10-25 18:51 fafbfbc526ce8cb3e1a27912b190137f8a62e454.pak
+-rw------- 1 u0_a343 ext_data_rw 4290613 2026-10-25 18:52 fb4181e13117291987dfd6ad6d176308fd371beb.pak
+-rw------- 1 u0_a343 ext_data_rw 3119222 2026-10-25 18:52 fb71901282f52f5c37b9ab23f408cc693e2bad4a.pak
+-rw------- 1 u0_a343 ext_data_rw 2269582 2026-10-25 18:52 fc2482120bfaa6967bf77062e0471a1482c93b49.pak
+-rw------- 1 u0_a343 ext_data_rw 2022643 2026-10-25 18:52 fc943fea3cbc1581bec3b9f85fea0c9d8d527f21.pak
+-rw------- 1 u0_a343 ext_data_rw 2316956 2026-10-25 18:52 fceb18b921fcd3411807fa3967f21d8bc3f5d6ff.pak
+-rw------- 1 u0_a343 ext_data_rw 3872814 2026-10-25 18:52 fe479dabbf24970727261e281b38e02ff3d511c0.pak
+-rw------- 1 u0_a343 ext_data_rw 1695507 2026-10-25 18:52 ff1d631812083c2721776c59f636f8acfb19ad3a.pak
+-rw------- 1 u0_a343 ext_data_rw 5742940 2026-10-25 18:52 ff671ff045b236cde6328bfc22498df4e09a58e3.pak
+-rw------- 1 u0_a343 ext_data_rw 3120719 2026-10-25 18:51 ffc21813cb2aabf2509ed3cc796ee16583695afd.pak
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Pandora:
+total 10
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 Caches
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 Cookies
+drwxr-s--- 2 u0_a343 ext_data_rw 4096 2026-10-25 18:51 Paks
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Pandora/Caches:
+total 7872
+-rw------- 1 u0_a343 ext_data_rw 874407 2026-10-25 18:51 065688ef3270a40763ea9ca235e274f1
+-rw------- 1 u0_a343 ext_data_rw  91796 2026-10-25 18:51 0bbc795db20c7d5211ea5796ae0acafd
+-rw------- 1 u0_a343 ext_data_rw 188074 2026-10-25 18:51 17d594656a9e0f747f703b659f2ce7a1
+-rw------- 1 u0_a343 ext_data_rw 804640 2026-10-25 18:51 20a0225143492034056eca36ae4d39c7
+-rw------- 1 u0_a343 ext_data_rw 116632 2026-10-25 18:51 247ee549c2bdce49da1998752c485248
+-rw------- 1 u0_a343 ext_data_rw  89555 2026-10-25 18:51 33b38015113420e76105aa17e4a6b27e
+-rw------- 1 u0_a343 ext_data_rw 918663 2026-10-25 18:51 38e56e1af21121f6f751173b2d013b41
+-rw------- 1 u0_a343 ext_data_rw 118909 2026-10-25 18:51 4bbd19604a9f84c6b7bc886092ccb5cf
+-rw------- 1 u0_a343 ext_data_rw 109587 2026-10-25 18:51 4d165090d4055799675c6643e5cc09fc
+-rw------- 1 u0_a343 ext_data_rw 810366 2026-10-25 18:51 54dc431c95a56f1b8c99b4f524c531ba
+-rw------- 1 u0_a343 ext_data_rw 804592 2026-10-25 18:51 676a4a0a786cf214b14a1fa23de28f77
+-rw------- 1 u0_a343 ext_data_rw 125880 2026-10-25 18:51 67b0ffe9380b6bb53aeb3dd23e5118b7
+-rw------- 1 u0_a343 ext_data_rw 128891 2026-10-25 18:51 6921a387bb6e9d87aad3353175d8694c
+-rw------- 1 u0_a343 ext_data_rw 652539 2026-10-25 18:51 6dd7fb68008ff9558bca1c36a0e50efa
+-rw------- 1 u0_a343 ext_data_rw 177335 2026-10-25 18:51 910c6d78f5227cf2b58fbc6114ac3419
+-rw------- 1 u0_a343 ext_data_rw 877652 2026-10-25 18:51 9c860353909e6a3875bf42774777efc4
+-rw------- 1 u0_a343 ext_data_rw 160530 2026-10-25 18:51 b4908ba8647cd7e844b1c9cf4743025e
+-rw------- 1 u0_a343 ext_data_rw 772874 2026-10-25 18:51 c02980cc1657a54e50339c6186f1f925
+-rw------- 1 u0_a343 ext_data_rw 100996 2026-10-25 18:51 d858670bf60ad441b585d198c9097e15
+-rw------- 1 u0_a343 ext_data_rw  95223 2026-10-25 18:51 fcdabb0f1d776910e52ebcd3cee12e80
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Pandora/Cookies:
+total 32
+-rw------- 1 u0_a343 ext_data_rw  76 2026-10-25 18:51 Cookie_ContentCenter855876_1286429931_2_9876364523_.txt
+-rw------- 1 u0_a343 ext_data_rw  76 2026-10-25 18:51 Cookie_CreatorRights855849_1286429931_2_9876364523_.txt
+-rw------- 1 u0_a343 ext_data_rw  71 2026-10-25 18:51 Cookie_LiveList798629_1286429931_2_9876364523_.txt
+-rw------- 1 u0_a343 ext_data_rw 229 2026-10-25 18:51 Cookie_LiveTreasure766767_1286429931_2_9876364523_.txt
+-rw------- 1 u0_a343 ext_data_rw  68 2026-10-25 18:51 Cookie_RedPacketFl916384_1286429931_2_9876364523_.txt
+-rw------- 1 u0_a343 ext_data_rw 288 2026-10-25 18:51 SlideshowCookie_1286429931__9876364523.txt
+-rw------- 1 u0_a343 ext_data_rw   4 2026-10-25 18:51 TemplateCache_ACTemplate1257622_1286429931_2_9876364523_.txt
+-rw------- 1 u0_a343 ext_data_rw 245 2026-10-25 18:51 Test_0900601_PandoraFullPopCookie_1286429931_.txt
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/Pandora/Paks:
+total 55124
+-rw------- 1 u0_a343 ext_data_rw  1354638 2026-10-25 18:51 actemplate_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      696 2026-10-25 18:51 actemplate_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw   245860 2026-10-25 18:51 aqtwcodeexchange1054769_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      560 2026-10-25 18:51 aqtwcodeexchange1054769_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  2239595 2026-10-25 18:51 contentcenter855876_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      808 2026-10-25 18:51 contentcenter855876_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  1714561 2026-10-25 18:51 creatorrights855849_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      744 2026-10-25 18:51 creatorrights855849_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw    33108 2026-10-25 18:51 djc_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      536 2026-10-25 18:51 djc_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw   774687 2026-10-25 18:51 frame_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      624 2026-10-25 18:51 frame_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  3738152 2026-10-25 18:51 livelist798629_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      992 2026-10-25 18:51 livelist798629_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  1811497 2026-10-25 18:51 livestream560334_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      752 2026-10-25 18:51 livestream560334_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  3899261 2026-10-25 18:51 livetreasure766767_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw     1008 2026-10-25 18:51 livetreasure766767_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  3049757 2026-10-25 18:51 pandorafullpop_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      904 2026-10-25 18:51 pandorafullpop_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw   424830 2026-10-25 18:51 pandoraintroducevideo_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      584 2026-10-25 18:51 pandoraintroducevideo_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw    83648 2026-10-25 18:51 pandoralivepop_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      544 2026-10-25 18:51 pandoralivepop_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw   725774 2026-10-25 18:51 pandoravideopop_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      624 2026-10-25 18:51 pandoravideopop_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw 12321762 2026-10-25 18:51 rareprizepool2868697_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw     2040 2026-10-25 18:51 rareprizepool2868697_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  5649031 2026-10-25 18:51 record_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw     1224 2026-10-25 18:51 record_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  4197914 2026-10-25 18:51 redpacketfl916384_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw     1048 2026-10-25 18:51 redpacketfl916384_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw    37004 2026-10-25 18:51 slideshow_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      536 2026-10-25 18:51 slideshow_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw 10848564 2026-10-25 18:51 streamervote919693_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw     1856 2026-10-25 18:51 streamervote919693_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw  2594322 2026-10-25 18:51 teamspending945282_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      848 2026-10-25 18:51 teamspending945282_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw    41837 2026-10-25 18:51 televisionpop_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      536 2026-10-25 18:51 televisionpop_android_astc.sig
+-rw------- 1 u0_a343 ext_data_rw   485793 2026-10-25 18:51 tvexcitingvideos620337_android_astc.pak
+-rw------- 1 u0_a343 ext_data_rw      592 2026-10-25 18:51 tvexcitingvideos620337_android_astc.sig
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/PandoraLogs:
+total 16
+-rw------- 1 u0_a343 ext_data_rw  136 2026-10-25 18:51 Pandora-2026.10.25-18.50.02.log
+-rw------- 1 u0_a343 ext_data_rw 9627 2026-10-25 18:51 Pandora-2026.10.25-18.51.24.log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/RemotePSO:
+total 7
+-rw------- 1 u0_a343 ext_data_rw    1 2026-10-25 18:44 GLSL_ES3_1_ANDROIDPSODownloadFlag.cache
+drwxr-s--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:49 Intermediate
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/RemotePSO/Intermediate:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/dlc:
+total 6995451
+-rw-r----- 1 u0_a343 ext_data_rw       3925 2026-10-25 18:44 diffdesc.data
+-rw-r----- 1 u0_a343 ext_data_rw 3113655491 2026-10-25 18:46 pakchunk1-Android_ASTC.pak
+-rw-r----- 1 u0_a343 ext_data_rw     380616 2026-10-25 18:44 pakchunk1-Android_ASTC.sig
+-rw-r----- 1 u0_a343 ext_data_rw 1153235456 2026-10-25 18:47 pakchunk31-Android_ASTC.pak
+-rw-r----- 1 u0_a343 ext_data_rw     141304 2026-10-25 18:47 pakchunk31-Android_ASTC.sig
+-rw-r----- 1 u0_a343 ext_data_rw  202164711 2026-10-25 18:44 pakchunk40-Android_ASTC.pak
+-rw-r----- 1 u0_a343 ext_data_rw      25208 2026-10-25 18:44 pakchunk40-Android_ASTC.sig
+-rw-r----- 1 u0_a343 ext_data_rw 2630082319 2026-10-25 18:49 pakchunk43-Android_ASTC.pak
+-rw-r----- 1 u0_a343 ext_data_rw     321584 2026-10-25 18:47 pakchunk43-Android_ASTC.sig
+-rw-rw---- 1 u0_a343 ext_data_rw   56277716 2026-10-25 18:49 puffer_res.eifs
+drwxr-s--- 2 u0_a343 ext_data_rw       3440 2026-10-25 18:49 puffer_temp
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/dlc/puffer_temp:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/patch:
+total 63891
+drwxr-s--- 2 u0_a343 ext_data_rw     3440 2026-10-25 18:43 1.0.167.167
+-rw-rw---- 1 u0_a343 ext_data_rw    86584 2026-10-25 18:43 122149298_1000260_1.0.167.10_20261014094444_1227487486_cures.ifs.res
+-rw-rw---- 1 u0_a343 ext_data_rw    79212 2026-10-25 18:43 apollo_reslist.flist
+-rw-rw---- 1 u0_a343 ext_data_rw     1338 2026-10-25 18:43 filelist.json
+-rw-r----- 1 u0_a343 ext_data_rw   794976 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.10_10_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      632 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.10_10_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3814205 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw     1000 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  1116950 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.2_2_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      672 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.2_2_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3233947 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      928 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  5395274 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw     1192 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3796369 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.5_5_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      992 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.5_5_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  1515118 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      720 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3136454 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.7_7_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      912 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.7_7_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   811247 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.8_8_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      632 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.8_8_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3244341 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.9_9_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      928 2026-10-25 18:43 pakchunk0-Android_ASTC_1.0.167.9_9_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3525949 2026-10-25 18:43 pakchunk0optional-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      960 2026-10-25 18:43 pakchunk0optional-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  1039951 2026-10-25 18:43 pakchunk0optional-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      656 2026-10-25 18:43 pakchunk0optional-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw 11012727 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw     1880 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     7517 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  2436464 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      832 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   389234 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      576 2026-10-25 18:43 pakchunk1-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    62762 2026-10-25 18:43 pakchunk12-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk12-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   176618 2026-10-25 18:43 pakchunk12optional-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      552 2026-10-25 18:43 pakchunk12optional-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  2508981 2026-10-25 18:43 pakchunk1optional-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      840 2026-10-25 18:43 pakchunk1optional-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  2916518 2026-10-25 18:43 pakchunk1optional-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      888 2026-10-25 18:43 pakchunk1optional-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    43896 2026-10-25 18:43 pakchunk2-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk2-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   101775 2026-10-25 18:43 pakchunk2optional-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      544 2026-10-25 18:43 pakchunk2optional-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    65301 2026-10-25 18:43 pakchunk3-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk3-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    76956 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      544 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    68828 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      544 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     9319 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     7373 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.5_5_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.5_5_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   124948 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      544 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   134864 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.7_7_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      552 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.7_7_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    22955 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.8_8_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk31-Android_ASTC_1.0.167.8_8_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   707123 2026-10-25 18:43 pakchunk33-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      616 2026-10-25 18:43 pakchunk33-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  1610092 2026-10-25 18:43 pakchunk33optional-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      728 2026-10-25 18:43 pakchunk33optional-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     4585 2026-10-25 18:43 pakchunk37-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk37-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     1544 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.10_10_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.10_10_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   408281 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      584 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     6476 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.2_2_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.2_2_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   145832 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      552 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     6444 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     1544 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.5_5_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.5_5_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     6556 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     6492 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.7_7_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.7_7_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     6540 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.8_8_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.8_8_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     6444 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.9_9_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.9_9_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   318105 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.10_10_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      568 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.10_10_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   784989 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      624 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   656754 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      616 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3234427 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      928 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   418051 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.5_5_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      584 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.5_5_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    53704 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     8060 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.7_7_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.7_7_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     1521 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.8_8_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.8_8_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   395669 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.9_9_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      584 2026-10-25 18:43 pakchunk43-Android_ASTC_1.0.167.9_9_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw  3170306 2026-10-25 18:43 pakchunk43optional-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      920 2026-10-25 18:43 pakchunk43optional-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    21501 2026-10-25 18:43 pakchunk5-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk5-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   985974 2026-10-25 18:43 pakchunk54-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      656 2026-10-25 18:43 pakchunk54-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.10_10_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.10_10_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     9916 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.1_1_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.1_1_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.2_2_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.2_2_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.3_3_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.3_3_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    53656 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.4_4_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw    67372 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.5_5_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      544 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.5_5_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.6_6_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.6_6_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.7_7_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.7_7_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.8_8_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.8_8_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw     2950 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.9_9_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      536 2026-10-25 18:43 pakchunk9-Android_ASTC_1.0.167.9_9_p.sig
+-rw-r----- 1 u0_a343 ext_data_rw   117597 2026-10-25 18:43 pakchunk9optional-Android_ASTC_1.0.167.4_4_p.pak
+-rw-r----- 1 u0_a343 ext_data_rw      544 2026-10-25 18:43 pakchunk9optional-Android_ASTC_1.0.167.4_4_p.sig
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/patch/1.0.167.167:
+total 640
+-rw------- 1 u0_a343 ext_data_rw   1544 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.10_10_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.10_10_p.sig
+-rw------- 1 u0_a343 ext_data_rw 408281 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.1_1_p.pak
+-rw------- 1 u0_a343 ext_data_rw    584 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.1_1_p.sig
+-rw------- 1 u0_a343 ext_data_rw   6476 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.2_2_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.2_2_p.sig
+-rw------- 1 u0_a343 ext_data_rw 145832 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.3_3_p.pak
+-rw------- 1 u0_a343 ext_data_rw    552 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.3_3_p.sig
+-rw------- 1 u0_a343 ext_data_rw   6444 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.4_4_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.4_4_p.sig
+-rw------- 1 u0_a343 ext_data_rw   1544 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.5_5_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.5_5_p.sig
+-rw------- 1 u0_a343 ext_data_rw   6556 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.6_6_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.6_6_p.sig
+-rw------- 1 u0_a343 ext_data_rw   6492 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.7_7_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.7_7_p.sig
+-rw------- 1 u0_a343 ext_data_rw   6540 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.8_8_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.8_8_p.sig
+-rw------- 1 u0_a343 ext_data_rw   6444 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.9_9_p.pak
+-rw------- 1 u0_a343 ext_data_rw    536 2026-10-25 18:43 pakchunk41-Android_ASTC_1.0.167.9_9_p.sig
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/UE4Game/UAGame/UAGame/Saved/puffer_progress:
+total 4
+-rw------- 1 u0_a343 ext_data_rw 31 2026-10-25 18:49 1.0.167.10.txt
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/gv_dump:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/midas:
+total 3
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:51 log
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/midas/log:
+total 3
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 com.tencent.mf.uam
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/midas/log/com.tencent.mf.uam:
+total 140
+-rw-rw---- 1 u0_a343 ext_data_rw  69792 2026-10-25 18:51 20261025_1.txt
+-rw-rw---- 1 u0_a343 ext_data_rw 153600 2026-10-25 18:51 MidasLog.mmap
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/pixui:
+total 0
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/tencent:
+total 10
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:51 Midas
+-rw-rw---- 1 u0_a343 ext_data_rw  138 2026-10-25 18:51 Midas.xml
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:50 mobileqq
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/tencent/Midas:
+total 3
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:51 Runtime
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/tencent/Midas/Runtime:
+total 4
+-rw-rw---- 1 u0_a343 ext_data_rw 202 2026-10-25 18:51 run_ver3.txt
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/tencent/mobileqq:
+total 3
+drwxrws--- 3 u0_a343 ext_data_rw 3440 2026-10-25 18:50 opensdk
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/tencent/mobileqq/opensdk:
+total 3
+drwxrws--- 2 u0_a343 ext_data_rw 3440 2026-10-25 18:50 logs
+
+/storage/emulated/0/Android/data/com.tencent.mf.uam/files/tencent/mobileqq/opensdk/logs:
+total 8
+-rw-rw---- 1 u0_a343 ext_data_rw 7024 2026-10-25 18:51 com.tencent.mobileqq_connectSdk.26.10.25.18.log

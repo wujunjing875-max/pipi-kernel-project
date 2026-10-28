@@ -1,0 +1,19 @@
+# ===== 调试截图（不进仓库）=====
+abu-aim/work/
+tpen_app/out/shot/
+workspace_11-45/shot*.png
+workspace_11-45/tpen_box_check.png
+
+# ===== 构建中间产物 =====
+*.class
+out/classes/
+out/unsigned.apk
+out/aligned.apk
+*.idsig
+
+# ===== 编辑器/系统垃圾 =====
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,19 @@
+{
+  "screen": { "w": 1280, "h": 720 },
+  "aimbot": {
+    "fov_shape": "circle",
+    "fov_radius": 210.0,
+    "hfov_deg": 90.0,
+    "smooth": 0.45,
+    "max_step_px": 90.0,
+    "pred_ms": 22.0,
+    "deadzone_px": 1.2,
+    "reaction_ms": 90.0,
+    "trigger_px": 6.0,
+    "target_mode": "nearest",
+    "head_bias": 0.45,
+    "switch_hysteresis": 1.30
+  },
+  "render": { "frames": 420, "ticks_per_frame": 2, "tick_hz": 144 },
+  "game": { "port": 27655, "targets": 6, "seed": 20261026 }
+}

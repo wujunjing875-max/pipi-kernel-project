@@ -1,0 +1,631 @@
+/data/data/com.tencent.mf.uam:
+total 48
+drwx------  2 u0_a343 u0_a343       3440 2026-10-25 18:51 EstvShadowPlugin_shadow-app
+drwxrwx--x  4 u0_a343 u0_a343       3440 2026-10-25 18:50 app_cn.wsds.sdk.game.data
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:43 app_crashSight
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:43 app_crashrecord
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:50 app_databases
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:51 app_midaslib_1
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:51 app_midasodex
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:51 app_midasplugins
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:50 app_textures
+drwx------  3 u0_a343 u0_a343       3440 2026-10-25 18:51 app_webview
+drwxrws--x  5 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 cache
+drwxrws--x  2 u0_a343 u0_a343_cache 3440 2026-10-25 18:42 code_cache
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:51 databases
+drwx------ 17 u0_a343 u0_a343       3440 2026-10-25 18:54 files
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:46 no_backup
+drwxrwx--x  2 u0_a343 u0_a343       3440 2026-10-25 18:54 shared_prefs
+
+/data/data/com.tencent.mf.uam/EstvShadowPlugin_shadow-app:
+total 0
+
+/data/data/com.tencent.mf.uam/app_cn.wsds.sdk.game.data:
+total 50
+-rw------- 1 u0_a343 u0_a343  7699 2026-10-25 18:50 AccelNodes.portal2
+-rw------- 1 u0_a343 u0_a343   375 2026-10-25 18:50 QosRegion.portal2
+-rw------- 1 u0_a343 u0_a343  1675 2026-10-25 18:50 game-ip.portal2
+-rw------- 1 u0_a343 u0_a343  1599 2026-10-25 18:50 general.portal2
+drwx------ 2 u0_a343 u0_a343  3440 2026-10-25 18:50 links
+-rw------- 1 u0_a343 u0_a343   171 2026-10-25 18:50 misc-config.portal2
+-rw------- 1 u0_a343 u0_a343   137 2026-10-25 18:50 portraits.portal2
+drwx------ 2 u0_a343 u0_a343  3440 2026-10-25 18:50 proxy_data
+-rw------- 1 u0_a343 u0_a343 13479 2026-10-25 18:50 scripts_64.portal2
+
+/data/data/com.tencent.mf.uam/app_cn.wsds.sdk.game.data/links:
+total 0
+
+/data/data/com.tencent.mf.uam/app_cn.wsds.sdk.game.data/proxy_data:
+total 0
+
+/data/data/com.tencent.mf.uam/app_crashSight:
+total 36
+-rw------- 1 u0_a343 u0_a343   36 2026-10-25 18:43 CrashSight_DeviceID
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:43 jni_log_1792925014075.txt
+-rwx------ 1 u0_a343 u0_a343 8192 2026-10-25 18:54 mmkvlite_log_User_KV.mmkv
+-rwx------ 1 u0_a343 u0_a343 8192 2026-10-25 18:43 mmkvlite_log_User_Log.mmkv
+-rwx------ 1 u0_a343 u0_a343 8192 2026-10-25 18:43 mmkvlite_log_app_state.mmkv
+-rwx------ 1 u0_a343 u0_a343 8192 2026-10-25 18:54 mmkvlite_log_uncatched_mem_info.mmkv
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:43 sys_log_1792925014075.txt
+
+/data/data/com.tencent.mf.uam/app_crashrecord:
+total 4
+-rw------- 1 u0_a343 u0_a343 58 2026-10-25 18:43 1004
+
+/data/data/com.tencent.mf.uam/app_databases:
+total 0
+
+/data/data/com.tencent.mf.uam/app_midaslib_1:
+total 8
+-rw------- 1 u0_a343 u0_a343 6680 2026-10-25 18:51 libunipayutils.so
+
+/data/data/com.tencent.mf.uam/app_midasodex:
+total 0
+
+/data/data/com.tencent.mf.uam/app_midasplugins:
+total 1620
+-rw------- 1 u0_a343 u0_a343    2031 2026-10-25 18:51 MidasCore_1.9.9b_199002_42c9f85f4a17bfa0997780d87b6da4db.apk
+-r-------- 1 u0_a343 u0_a343 1650315 2026-10-25 18:51 MidasPay_1.9.9b_199002_47c40cde9f7bee460b53324d49f11b12.apk
+-rw------- 1 u0_a343 u0_a343    1147 2026-10-25 18:51 MidasSign.ini
+
+/data/data/com.tencent.mf.uam/app_textures:
+total 0
+
+/data/data/com.tencent.mf.uam/app_webview:
+total 4135
+-rw-------  1 u0_a343 u0_a343 4194304 2026-10-25 18:50 BrowserMetrics-spare.pma
+drwx------ 11 u0_a343 u0_a343    3440 2026-10-25 18:50 Default
+-rw-------  1 u0_a343 u0_a343      81 2026-10-25 18:52 last-exit-info
+-rw-------  1 u0_a343 u0_a343     134 2026-10-25 18:50 pref_store
+-rwx------  1 u0_a343 u0_a343   24276 2026-10-25 18:50 variations_seed_new
+-rw-------  1 u0_a343 u0_a343       0 2026-10-25 18:50 variations_stamp
+-rw-------  1 u0_a343 u0_a343       0 2026-10-25 18:51 webview_data.lock
+
+/data/data/com.tencent.mf.uam/app_webview/Default:
+total 59
+-rw------- 1 u0_a343 u0_a343 24576 2026-10-25 18:51 Cookies
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:50 Cookies-journal
+drwx------ 3 u0_a343 u0_a343  3440 2026-10-25 18:50 IndexedDB
+drwx------ 3 u0_a343 u0_a343  3440 2026-10-25 18:50 Local Storage
+drwx------ 2 u0_a343 u0_a343  3440 2026-10-25 18:50 PersistentOriginTrials
+drwx------ 2 u0_a343 u0_a343  3440 2026-10-25 18:50 Session Storage
+drwx------ 3 u0_a343 u0_a343  3440 2026-10-25 18:50 Shared Dictionary
+-rw------- 1 u0_a343 u0_a343  8192 2026-10-25 18:50 Web Data
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:50 Web Data-journal
+drwx------ 2 u0_a343 u0_a343  3440 2026-10-25 18:50 WebStorage
+drwx------ 3 u0_a343 u0_a343  3440 2026-10-25 18:50 blob_storage
+drwx------ 2 u0_a343 u0_a343  3440 2026-10-25 18:50 databases
+drwx------ 3 u0_a343 u0_a343  3440 2026-10-25 18:50 shared_proto_db
+
+/data/data/com.tencent.mf.uam/app_webview/Default/IndexedDB:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 https_xui.ptlogin2.qq.com_0.indexeddb.leveldb
+
+/data/data/com.tencent.mf.uam/app_webview/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb:
+total 16
+-rw------- 1 u0_a343 u0_a343 1847 2026-10-25 18:50 000003.log
+-rw------- 1 u0_a343 u0_a343   16 2026-10-25 18:50 CURRENT
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:50 LOCK
+-rw------- 1 u0_a343 u0_a343  341 2026-10-25 18:50 LOG
+-rw------- 1 u0_a343 u0_a343   23 2026-10-25 18:50 MANIFEST-000001
+
+/data/data/com.tencent.mf.uam/app_webview/Default/Local Storage:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 leveldb
+
+/data/data/com.tencent.mf.uam/app_webview/Default/Local Storage/leveldb:
+total 16
+-rw------- 1 u0_a343 u0_a343 2609 2026-10-25 18:51 000003.log
+-rw------- 1 u0_a343 u0_a343   16 2026-10-25 18:50 CURRENT
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:50 LOCK
+-rw------- 1 u0_a343 u0_a343  273 2026-10-25 18:50 LOG
+-rw------- 1 u0_a343 u0_a343   41 2026-10-25 18:50 MANIFEST-000001
+
+/data/data/com.tencent.mf.uam/app_webview/Default/PersistentOriginTrials:
+total 0
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:50 LOCK
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:50 LOG
+
+/data/data/com.tencent.mf.uam/app_webview/Default/Session Storage:
+total 16
+-rw------- 1 u0_a343 u0_a343 619 2026-10-25 18:51 000003.log
+-rw------- 1 u0_a343 u0_a343  16 2026-10-25 18:50 CURRENT
+-rw------- 1 u0_a343 u0_a343   0 2026-10-25 18:50 LOCK
+-rw------- 1 u0_a343 u0_a343 261 2026-10-25 18:50 LOG
+-rw------- 1 u0_a343 u0_a343  41 2026-10-25 18:50 MANIFEST-000001
+
+/data/data/com.tencent.mf.uam/app_webview/Default/Shared Dictionary:
+total 51
+drwx------ 3 u0_a343 u0_a343  3440 2026-10-25 18:50 cache
+-rw------- 1 u0_a343 u0_a343 49152 2026-10-25 18:50 db
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:50 db-journal
+
+/data/data/com.tencent.mf.uam/app_webview/Default/Shared Dictionary/cache:
+total 7
+-rw------- 1 u0_a343 u0_a343   24 2026-10-25 18:50 index
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 index-dir
+
+/data/data/com.tencent.mf.uam/app_webview/Default/Shared Dictionary/cache/index-dir:
+total 4
+-rw------- 1 u0_a343 u0_a343 48 2026-10-25 18:50 the-real-index
+
+/data/data/com.tencent.mf.uam/app_webview/Default/WebStorage:
+total 44
+-rw------- 1 u0_a343 u0_a343 45056 2026-10-25 18:51 QuotaManager
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:51 QuotaManager-journal
+
+/data/data/com.tencent.mf.uam/app_webview/Default/blob_storage:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 0cebbeac-6270-48f7-945d-41b9b49c1985
+
+/data/data/com.tencent.mf.uam/app_webview/Default/blob_storage/0cebbeac-6270-48f7-945d-41b9b49c1985:
+total 0
+
+/data/data/com.tencent.mf.uam/app_webview/Default/databases:
+total 32
+-rw------- 1 u0_a343 u0_a343 32768 2026-10-25 18:50 Databases.db
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:50 Databases.db-journal
+
+/data/data/com.tencent.mf.uam/app_webview/Default/shared_proto_db:
+total 19
+-rw------- 1 u0_a343 u0_a343   95 2026-10-25 18:52 000003.log
+-rw------- 1 u0_a343 u0_a343   16 2026-10-25 18:50 CURRENT
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:50 LOCK
+-rw------- 1 u0_a343 u0_a343  261 2026-10-25 18:50 LOG
+-rw------- 1 u0_a343 u0_a343   41 2026-10-25 18:50 MANIFEST-000001
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 metadata
+
+/data/data/com.tencent.mf.uam/app_webview/Default/shared_proto_db/metadata:
+total 16
+-rw------- 1 u0_a343 u0_a343 126 2026-10-25 18:50 000003.log
+-rw------- 1 u0_a343 u0_a343  16 2026-10-25 18:50 CURRENT
+-rw------- 1 u0_a343 u0_a343   0 2026-10-25 18:50 LOCK
+-rw------- 1 u0_a343 u0_a343 279 2026-10-25 18:50 LOG
+-rw------- 1 u0_a343 u0_a343  41 2026-10-25 18:50 MANIFEST-000001
+
+/data/data/com.tencent.mf.uam/cache:
+total 13
+drwx--S--- 6 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 WebView
+prw------- 1 u0_a343 u0_a343_cache    0 2026-10-25 18:50 audio_config_fifo
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 iCreateShare
+-rw------- 1 u0_a343 u0_a343_cache    1 2026-10-25 18:43 mapped2728568431326462732.txt
+drwx--S--- 3 u0_a343 u0_a343_cache 3440 2026-10-25 18:43 oat_primary
+
+/data/data/com.tencent.mf.uam/cache/WebView:
+total 36
+drwx--S--- 2 u0_a343 u0_a343_cache  3440 2026-10-25 18:50 Crash Reports
+drwx--S--- 6 u0_a343 u0_a343_cache  3440 2026-10-25 18:50 Crashpad
+drwx--S--- 3 u0_a343 u0_a343_cache  3440 2026-10-25 18:50 Default
+drwx--S--- 2 u0_a343 u0_a343_cache  3440 2026-10-25 18:50 SafeBrowsing
+-rw------- 1 u0_a343 u0_a343_cache 24396 2026-10-25 18:50 font_unique_name_table.pb
+
+/data/data/com.tencent.mf.uam/cache/WebView/Crash Reports:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/WebView/Crashpad:
+total 12
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 attachments
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 completed
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 new
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 pending
+
+/data/data/com.tencent.mf.uam/cache/WebView/Crashpad/attachments:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/WebView/Crashpad/completed:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/WebView/Crashpad/new:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/WebView/Crashpad/pending:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default:
+total 3
+drwx--S--- 4 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 HTTP Cache
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache:
+total 6
+drwx--S--- 3 u0_a343 u0_a343_cache 3440 2026-10-25 18:51 Cache_Data
+drwx--S--- 4 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 Code Cache
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Cache_Data:
+total 427
+-rw------- 1 u0_a343 u0_a343_cache   8960 2026-10-25 18:50 10c5adca9295727f_0
+-rw------- 1 u0_a343 u0_a343_cache  17728 2026-10-25 18:50 15b70f322f4ecdd7_0
+-rw------- 1 u0_a343 u0_a343_cache   5807 2026-10-25 18:51 166455bc1bb6d50a_0
+-rw------- 1 u0_a343 u0_a343_cache   4946 2026-10-25 18:51 17189741bcc21616_0
+-rw------- 1 u0_a343 u0_a343_cache   6093 2026-10-25 18:50 3a92323c2fc0841a_0
+-rw------- 1 u0_a343 u0_a343_cache   4840 2026-10-25 18:50 3c944f483c82f75b_0
+-rw------- 1 u0_a343 u0_a343_cache   4945 2026-10-25 18:50 467ff66f685d883a_0
+-rw------- 1 u0_a343 u0_a343_cache  73574 2026-10-25 18:50 4e989818f461da3d_0
+-rw------- 1 u0_a343 u0_a343_cache  38101 2026-10-25 18:50 642fab4d828966b1_0
+-rw------- 1 u0_a343 u0_a343_cache   4852 2026-10-25 18:50 705336b38fba19ee_0
+-rw------- 1 u0_a343 u0_a343_cache  10269 2026-10-25 18:50 7d017353308e7925_0
+-rw------- 1 u0_a343 u0_a343_cache  11562 2026-10-25 18:51 86e3dd2daf04369d_0
+-rw------- 1 u0_a343 u0_a343_cache   8333 2026-10-25 18:50 94ebea4b3856234b_0
+-rw------- 1 u0_a343 u0_a343_cache   6449 2026-10-25 18:50 97ae940638fa89e4_0
+-rw------- 1 u0_a343 u0_a343_cache   4946 2026-10-25 18:50 9fe1905d32aa2e93_0
+-rw------- 1 u0_a343 u0_a343_cache   6341 2026-10-25 18:50 adb7cc397ff2e41e_0
+-rw------- 1 u0_a343 u0_a343_cache  10652 2026-10-25 18:50 c71ad53313b5dd7f_0
+-rw------- 1 u0_a343 u0_a343_cache   5375 2026-10-25 18:50 ca3fd8446c3ecba5_0
+-rw------- 1 u0_a343 u0_a343_cache 118207 2026-10-25 18:50 d08c698544d017bc_0
+-rw------- 1 u0_a343 u0_a343_cache   6762 2026-10-25 18:50 da364a46008bd445_0
+-rw------- 1 u0_a343 u0_a343_cache   4945 2026-10-25 18:50 e3c1fc975380a214_0
+-rw------- 1 u0_a343 u0_a343_cache   5895 2026-10-25 18:50 ea3e75833b39b0bb_0
+-rw------- 1 u0_a343 u0_a343_cache   6743 2026-10-25 18:50 ff21131cfacd2294_0
+-rw------- 1 u0_a343 u0_a343_cache     24 2026-10-25 18:50 index
+drwx--S--- 2 u0_a343 u0_a343_cache   3440 2026-10-25 18:51 index-dir
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir:
+total 4
+-rw------- 1 u0_a343 u0_a343_cache 600 2026-10-25 18:51 the-real-index
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Code Cache:
+total 6
+drwx--S--- 3 u0_a343 u0_a343_cache 3440 2026-10-25 18:51 js
+drwx--S--- 3 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 wasm
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Code Cache/js:
+total 35
+-rw------- 1 u0_a343 u0_a343_cache 1563 2026-10-25 18:50 0b81eefdf12b39fb_0
+-rw------- 1 u0_a343 u0_a343_cache 1175 2026-10-25 18:51 1ea7e14b3b354523_0
+-rw------- 1 u0_a343 u0_a343_cache  195 2026-10-25 18:50 337cad56820dfcc2_0
+-rw------- 1 u0_a343 u0_a343_cache  755 2026-10-25 18:50 45d645ebd40886fd_0
+-rw------- 1 u0_a343 u0_a343_cache  217 2026-10-25 18:50 adf6764b325fae3c_0
+-rw------- 1 u0_a343 u0_a343_cache  211 2026-10-25 18:50 c8fe7f39621e9e40_0
+-rw------- 1 u0_a343 u0_a343_cache 1019 2026-10-25 18:50 e59428b3831ab83f_0
+-rw------- 1 u0_a343 u0_a343_cache   24 2026-10-25 18:50 index
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:51 index-dir
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir:
+total 4
+-rw------- 1 u0_a343 u0_a343_cache 216 2026-10-25 18:51 the-real-index
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Code Cache/wasm:
+total 7
+-rw------- 1 u0_a343 u0_a343_cache   24 2026-10-25 18:50 index
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:50 index-dir
+
+/data/data/com.tencent.mf.uam/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir:
+total 4
+-rw------- 1 u0_a343 u0_a343_cache 48 2026-10-25 18:50 the-real-index
+
+/data/data/com.tencent.mf.uam/cache/WebView/SafeBrowsing:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/iCreateShare:
+total 0
+
+/data/data/com.tencent.mf.uam/cache/oat_primary:
+total 3
+drwx--S--- 2 u0_a343 u0_a343_cache 3440 2026-10-25 18:43 arm64
+
+/data/data/com.tencent.mf.uam/cache/oat_primary/arm64:
+total 368
+-rw------- 1 u0_a343 u0_a343_cache 383600 2026-10-25 18:43 base.art
+
+/data/data/com.tencent.mf.uam/code_cache:
+total 0
+
+/data/data/com.tencent.mf.uam/databases:
+total 232
+-rw-rw---- 1 u0_a343 u0_a343 12288 2026-10-25 18:51 TencentUnipayDB
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:51 TencentUnipayDB-journal
+-rw-rw---- 1 u0_a343 u0_a343 32768 2026-10-25 18:51 TencentUnipayDB-shm
+-rw-rw---- 1 u0_a343 u0_a343 61832 2026-10-25 18:51 TencentUnipayDB-wal
+-rw-rw---- 1 u0_a343 u0_a343 20480 2026-10-25 18:51 TencentUnipayIPList.db
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:51 TencentUnipayIPList.db-journal
+-rw-rw---- 1 u0_a343 u0_a343 61440 2026-10-25 18:51 crashSight_db_
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:43 crashSight_db_-journal
+-rw-rw---- 1 u0_a343 u0_a343 20480 2026-10-25 18:51 shadow_installed_plugin_dbestv
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:51 shadow_installed_plugin_dbestv-journal
+-rw-rw---- 1 u0_a343 u0_a343 24576 2026-10-25 18:52 xg_message_vip.db
+-rw------- 1 u0_a343 u0_a343     0 2026-10-25 18:51 xg_message_vip.db-journal
+
+/data/data/com.tencent.mf.uam/files:
+total 425
+drwx------ 3 u0_a343 u0_a343   3440 2026-10-25 18:43 Engine
+drwx------ 3 u0_a343 u0_a343   3440 2026-10-25 18:51 EstvShadowDir
+drwx------ 4 u0_a343 u0_a343   3440 2026-10-25 18:51 EstvShadowPlugin_shadow-app
+-rw------- 1 u0_a343 u0_a343 163840 2026-10-25 18:50 GRobot.mmap3
+-rw------- 1 u0_a343 u0_a343    255 2026-10-25 18:51 HANYCJLZOEUS_TOKEN2.dat
+-rw------- 1 u0_a343 u0_a343 163840 2026-10-25 18:43 MSDK.mmap3
+-rw------- 1 u0_a343 u0_a343     22 2026-10-25 18:43 ace_shell_di.dat
+drwx------ 5 u0_a343 u0_a343   3440 2026-10-25 18:53 ano_tmp
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:43 beacon
+drwx------ 4 u0_a343 u0_a343   3440 2026-10-25 18:51 com.gcloudsdk.gcloud.gvoice
+-rw-rw---- 1 u0_a343 u0_a343   1474 2026-10-25 18:50 com.tencent.open.config.json.1110196838
+-rw------- 1 u0_a343 u0_a343    318 2026-10-25 18:43 com.tencent.tdm.qimei.sdk.QimeiSDK
+drwx------ 3 u0_a343 u0_a343   3440 2026-10-25 18:43 data
+drwx------ 3 u0_a343 u0_a343   3440 2026-10-25 18:51 estvbc
+drwx------ 3 u0_a343 u0_a343   3440 2026-10-25 18:50 grobot
+-rwxrwxrwx 1 u0_a343 u0_a343   1624 2026-10-25 18:53 hawk_data
+-rw------- 1 u0_a343 u0_a343   1640 2026-10-25 18:51 itop_login.txt
+-rw------- 1 u0_a343 u0_a343    336 2026-10-25 18:51 jwt_token.txt
+-rw-rw---- 1 u0_a343 u0_a343  18024 2026-10-25 18:50 libwbsafeedit_64.so
+-rw------- 1 u0_a343 u0_a343     32 2026-10-25 18:43 login-identifier.txt
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:43 mmkv
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:44 oglservice
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:50 perfsight
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:43 qm
+drwx------ 3 u0_a343 u0_a343   3440 2026-10-25 18:43 shell_cache
+-rw-rw---- 1 u0_a343 u0_a343   1140 2026-10-25 18:51 slugsdkconfig.json
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:51 tdm_tmp
+-rw------- 1 u0_a343 u0_a343     40 2026-10-25 18:54 tdm_track.dat
+-rw-rw---- 1 u0_a343 u0_a343      0 2026-10-25 18:43 tri_init
+-rw------- 1 u0_a343 u0_a343      0 2026-10-25 18:51 web_ticket.txt
+
+/data/data/com.tencent.mf.uam/files/Engine:
+total 3
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:43 Saved
+
+/data/data/com.tencent.mf.uam/files/Engine/Saved:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:43 Crashes
+
+/data/data/com.tencent.mf.uam/files/Engine/Saved/Crashes:
+total 0
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir:
+total 3
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:51 Unpacked
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked:
+total 3
+drwx------ 4 u0_a343 u0_a343 3440 2026-10-25 18:51 estv
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv:
+total 6
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:51 f3adad1f0f15721995109c74bf1af4b7
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:51 lib
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv/f3adad1f0f15721995109c74bf1af4b7:
+total 3
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:51 estvbc-plugin.zip
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:51 unpacked.estvbc-plugin.zip
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv/f3adad1f0f15721995109c74bf1af4b7/estvbc-plugin.zip:
+total 17219
+-rw------- 1 u0_a343 u0_a343      592 2026-10-25 18:51 config.json
+drwx------ 2 u0_a343 u0_a343     3440 2026-10-25 18:51 oat
+-rw------- 1 u0_a343 u0_a343 17458577 2026-10-25 18:51 shadow-app-release.apk
+-rw------- 1 u0_a343 u0_a343    96557 2026-10-25 18:51 shadow-loader-release.apk
+-rw------- 1 u0_a343 u0_a343    43653 2026-10-25 18:51 shadow-runtime-release.apk
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv/f3adad1f0f15721995109c74bf1af4b7/estvbc-plugin.zip/oat:
+total 0
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:51 shadow-app-release.apk.cur.prof
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv/lib:
+total 3
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:51 arm64-v8a
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv/lib/arm64-v8a:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:51 5C176B38_lib
+
+/data/data/com.tencent.mf.uam/files/EstvShadowDir/Unpacked/estv/lib/arm64-v8a/5C176B38_lib:
+total 29160
+-rw------- 1 u0_a343 u0_a343   936368 2026-10-25 18:51 libc++_shared.so
+-rw------- 1 u0_a343 u0_a343   269528 2026-10-25 18:51 libcpuinfo-libs.so
+-rw------- 1 u0_a343 u0_a343     9920 2026-10-25 18:51 libencrypt.so
+-rw------- 1 u0_a343 u0_a343 27957048 2026-10-25 18:51 libes_capturer.so
+-rw------- 1 u0_a343 u0_a343   649560 2026-10-25 18:51 libmarsxlog.so
+-rw------- 1 u0_a343 u0_a343        0 2026-10-25 18:51 shadow-app_copied
+
+/data/data/com.tencent.mf.uam/files/EstvShadowPlugin_shadow-app:
+total 6
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:51 beacon
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:51 xlog
+
+/data/data/com.tencent.mf.uam/files/EstvShadowPlugin_shadow-app/beacon:
+total 0
+
+/data/data/com.tencent.mf.uam/files/EstvShadowPlugin_shadow-app/xlog:
+total 0
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:51 report_data.txt
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:51 tga_plugin.txt
+
+/data/data/com.tencent.mf.uam/files/ano_tmp:
+total 609
+-rw------- 1 u0_a343 u0_a343    255 2026-10-25 18:51 HANYCJLZOEUS_TOKEN2.dat
+-rw------- 1 u0_a343 u0_a343     28 2026-10-25 18:43 SpeedUpCCH.dat
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:43 ac_tmp
+-rw------- 1 u0_a343 u0_a343     32 2026-10-25 18:51 ace_cache_db.dat
+-rw------- 1 u0_a343 u0_a343     40 2026-10-25 18:43 ace_shell_db.dat
+-rw------- 1 u0_a343 u0_a343     24 2026-10-25 18:51 ano.ano3.dat
+-rw------- 1 u0_a343 u0_a343     32 2026-10-25 18:51 ano.i.m.dat
+-rw------- 1 u0_a343 u0_a343     24 2026-10-25 18:43 ano_app_915c.dat
+-rw------- 1 u0_a343 u0_a343    115 2026-10-25 18:51 ano_ksh.dat
+-rw------- 1 u0_a343 u0_a343    279 2026-10-25 18:43 atti_obv.dat
+-rw------- 1 u0_a343 u0_a343      8 2026-10-25 18:52 bmc.dat
+-rw------- 1 u0_a343 u0_a343   1336 2026-10-25 18:52 cache_crc.dat
+-rw------- 1 u0_a343 u0_a343      8 2026-10-25 18:52 cache_md5.dat
+-rw------- 1 u0_a343 u0_a343  69413 2026-10-25 18:43 comm.dat
+-rw------- 1 u0_a343 u0_a343  31320 2026-10-25 18:43 comm.zip
+-rw------- 1 u0_a343 u0_a343    486 2026-10-25 18:53 config2.dat.8e4d8896
+-rw------- 1 u0_a343 u0_a343    387 2026-10-25 18:53 config3.dat.b32da126
+-rw------- 1 u0_a343 u0_a343    255 2026-10-25 18:52 cpcah.dat
+-rw------- 1 u0_a343 u0_a343    198 2026-10-25 18:52 crt.i2.dat
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:51 custom_cache
+-rw------- 1 u0_a343 u0_a343     31 2026-10-25 18:43 fake_uiui.dat
+-rw------- 1 u0_a343 u0_a343     12 2026-10-25 18:43 h_rcd.dat
+-rw------- 1 u0_a343 u0_a343    203 2026-10-25 18:52 kvcache8.dat
+-rw------- 1 u0_a343 u0_a343   1739 2026-10-25 18:52 mn_cache.dat
+-rw------- 1 u0_a343 u0_a343     36 2026-10-25 18:43 mpmc.dat
+-rw------- 1 u0_a343 u0_a343  81493 2026-10-25 18:43 mrpcs.data
+-rw------- 1 u0_a343 u0_a343 215527 2026-10-25 18:43 mrpcs_2CMM.data
+-rw------- 1 u0_a343 u0_a343    168 2026-10-25 18:43 mrpcs_c.data
+-rwx------ 1 u0_a343 u0_a343      0 2026-10-25 18:43 ms_000050F20000510F_tmp.dat
+-rw------- 1 u0_a343 u0_a343  46290 2026-10-25 18:43 ob_x.zip
+-rw------- 1 u0_a343 u0_a343     28 2026-10-25 18:51 rcu.ano.dat
+-rw------- 1 u0_a343 u0_a343     38 2026-10-25 18:52 tdm_cache.dat
+-rw------- 1 u0_a343 u0_a343      4 2026-10-25 18:43 tersafe.update
+-rw------- 1 u0_a343 u0_a343    255 2026-10-25 18:51 tme_firm.dat
+-rw------- 1 u0_a343 u0_a343    251 2026-10-25 18:43 tss_ano.dat
+-rw------- 1 u0_a343 u0_a343  52221 2026-10-25 18:43 tssmua.zip
+drwx------ 2 u0_a343 u0_a343   3440 2026-10-25 18:43 vm
+
+/data/data/com.tencent.mf.uam/files/ano_tmp/ac_tmp:
+total 0
+
+/data/data/com.tencent.mf.uam/files/ano_tmp/custom_cache:
+total 0
+
+/data/data/com.tencent.mf.uam/files/ano_tmp/vm:
+total 4
+-rw------- 1 u0_a343 u0_a343 32 2026-10-25 18:43 up_cache.dat
+
+/data/data/com.tencent.mf.uam/files/beacon:
+total 0
+
+/data/data/com.tencent.mf.uam/files/com.gcloudsdk.gcloud.gvoice:
+total 6
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:43 GVoiceLog
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:53 tqos
+
+/data/data/com.tencent.mf.uam/files/com.gcloudsdk.gcloud.gvoice/GVoiceLog:
+total 11868
+-rw------- 1 u0_a343 u0_a343 2472220 2026-10-25 18:43 decoder_v4_small.nn
+-rw------- 1 u0_a343 u0_a343  810716 2026-10-25 18:43 dse_v1_1.nn
+-rw------- 1 u0_a343 u0_a343  810716 2026-10-25 18:43 dse_v1_2.nn
+-rw------- 1 u0_a343 u0_a343  829428 2026-10-25 18:43 dse_v1_3.nn
+-rw------- 1 u0_a343 u0_a343  852032 2026-10-25 18:43 dse_v1_4.nn
+-rw------- 1 u0_a343 u0_a343  595456 2026-10-25 18:43 dse_v1_5.nn
+-rw------- 1 u0_a343 u0_a343  810476 2026-10-25 18:43 dse_v1_6.nn
+-rw------- 1 u0_a343 u0_a343   50212 2026-10-25 18:43 dse_v1_align.nn
+-rw------- 1 u0_a343 u0_a343 2592572 2026-10-25 18:43 encoder_v4_small.nn
+-rw------- 1 u0_a343 u0_a343 2312680 2026-10-25 18:43 libgvoicensmodel.bin
+
+/data/data/com.tencent.mf.uam/files/com.gcloudsdk.gcloud.gvoice/tqos:
+total 8
+-rw------- 1 u0_a343 u0_a343 437 2026-10-25 18:54 Room_435894526994724481.tdr
+-rw------- 1 u0_a343 u0_a343 403 2026-10-25 18:54 Tve.tdr
+
+/data/data/com.tencent.mf.uam/files/data:
+total 3
+drwx------ 3 u0_a343 u0_a343 3440 2026-10-25 18:43 app
+
+/data/data/com.tencent.mf.uam/files/data/app:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:43 com.tencent.mf.uam-b9ea37a2
+
+/data/data/com.tencent.mf.uam/files/data/app/com.tencent.mf.uam-b9ea37a2:
+total 0
+
+/data/data/com.tencent.mf.uam/files/estvbc:
+total 19975
+-rw------- 1 u0_a343 u0_a343  3564397 2026-10-25 18:51 est.skin
+-rw------- 1 u0_a343 u0_a343 16858136 2026-10-25 18:51 estvbc-plugin.zip
+drwx------ 2 u0_a343 u0_a343     3440 2026-10-25 18:51 tmp
+
+/data/data/com.tencent.mf.uam/files/estvbc/tmp:
+total 19976
+-rw------- 1 u0_a343 u0_a343  3564397 2026-10-25 18:51 2bed9fa3-520e-4482-b7fd-96f54e9ec814
+-rw------- 1 u0_a343 u0_a343 16858136 2026-10-25 18:51 624c23a6-de27-4ad5-ad54-cdb1952f1450
+-rw------- 1 u0_a343 u0_a343     1339 2026-10-25 18:51 app_config.json
+
+/data/data/com.tencent.mf.uam/files/grobot:
+total 3
+drwx------ 4 u0_a343 u0_a343 3440 2026-10-25 18:50 log
+
+/data/data/com.tencent.mf.uam/files/grobot/log:
+total 6
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 cache
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:50 file
+
+/data/data/com.tencent.mf.uam/files/grobot/log/cache:
+total 256
+-rw------- 1 u0_a343 u0_a343 262144 2026-10-25 18:50 2026-10-25_18-50-02__buffer.log
+-rw------- 1 u0_a343 u0_a343      0 2026-10-25 18:50 2026-10-25_18-50-02__split.log.gz
+
+/data/data/com.tencent.mf.uam/files/grobot/log/file:
+total 0
+
+/data/data/com.tencent.mf.uam/files/mmkv:
+total 24
+-rwx------ 1 u0_a343 u0_a343 4096 2026-10-25 18:43 busi_report_data_f474cfd7ad_10010__APP
+-rwx------ 1 u0_a343 u0_a343 4096 2026-10-25 18:43 busi_report_data_f474cfd7ad_10010__APP.crc
+-rwx------ 1 u0_a343 u0_a343 4096 2026-10-25 18:43 f474cfd7ad_10010_null_000ff13e-fd47-4684-a7d0-4392fb252f52_APP
+-rwx------ 1 u0_a343 u0_a343 4096 2026-10-25 18:43 f474cfd7ad_10010_null_000ff13e-fd47-4684-a7d0-4392fb252f52_APP.crc
+-rwx------ 1 u0_a343 u0_a343 4096 2026-10-25 18:43 rdelivery_common_storage
+-rwx------ 1 u0_a343 u0_a343 4096 2026-10-25 18:43 rdelivery_common_storage.crc
+
+/data/data/com.tencent.mf.uam/files/oglservice:
+total 0
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService1_0_0.txt
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService1_0_0.txt.lck
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService2_0_0.txt
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService2_0_0.txt.lck
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService3_0_0.txt
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService3_0_0.txt.lck
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService4_0_0.txt
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService4_0_0.txt.lck
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService_0_0.txt
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:44 OGLProgramService_0_0.txt.lck
+
+/data/data/com.tencent.mf.uam/files/perfsight:
+total 4
+-rw------- 1 u0_a343 u0_a343 0 2026-10-25 18:53 TRI_CM_AUDIT
+-rw------- 1 u0_a343 u0_a343 4 2026-10-25 18:53 tdm_counter
+
+/data/data/com.tencent.mf.uam/files/qm:
+total 4
+-rw------- 1 u0_a343 u0_a343 1024 2026-10-25 18:43 3ba765d0afd5a4c4
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:43 QV1com.tencent.tdm.qimei.sdk.QimeiSDKc2009844da43a85e
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:43 cm_ce15c95bcb0c04db3e0b278bc0f80daf
+-rw------- 1 u0_a343 u0_a343    0 2026-10-25 18:43 lccNoCN
+
+/data/data/com.tencent.mf.uam/files/shell_cache:
+total 3
+drwx------ 2 u0_a343 u0_a343 3440 2026-10-25 18:43 vm
+
+/data/data/com.tencent.mf.uam/files/shell_cache/vm:
+total 0
+
+/data/data/com.tencent.mf.uam/files/tdm_tmp:
+total 0
+
+/data/data/com.tencent.mf.uam/no_backup:
+total 4
+-rw------- 1 u0_a343 u0_a343 99 2026-10-25 18:46 no-backup
+
+/data/data/com.tencent.mf.uam/shared_prefs:
+total 152
+-rw-rw---- 1 u0_a343 u0_a343  538 2026-10-25 18:51 AwOriginVisitLoggerPrefs.xml
+-rw-rw---- 1 u0_a343 u0_a343 1137 2026-10-25 18:51 BuglySdkInfos.xml
+-rw-rw---- 1 u0_a343 u0_a343  127 2026-10-25 18:43 CS_COMMON_VALUES.xml
+-rw-rw---- 1 u0_a343 u0_a343  210 2026-10-25 18:43 GCloudCoreSP.xml
+-rw-rw---- 1 u0_a343 u0_a343  551 2026-10-25 18:50 KEYSTORE_SETTING.xml
+-rw-rw---- 1 u0_a343 u0_a343 8768 2026-10-25 18:50 MNA_CONFIG_SP.xml
+-rw-rw---- 1 u0_a343 u0_a343  146 2026-10-25 18:43 MSDKPopupCommon.xml
+-rw-rw---- 1 u0_a343 u0_a343  237 2026-10-25 18:43 MSDK_POLICY_PREFERENCES.xml
+-rw-rw---- 1 u0_a343 u0_a343 4446 2026-10-25 18:43 QV1com.tencent.tdm.qimei.sdk.QimeiSDKc2009844da43a85e.xml
+-rw-rw---- 1 u0_a343 u0_a343  120 2026-10-25 18:43 ResHubSp.xml
+-rw-rw---- 1 u0_a343 u0_a343  120 2026-10-25 18:43 SLIReport.xml
+-rw-rw---- 1 u0_a343 u0_a343  644 2026-10-25 18:51 ShadowRuntimeLoader.xml
+-rw-rw---- 1 u0_a343 u0_a343  265 2026-10-25 18:51 TencentMidasIP.xml
+-rw-rw---- 1 u0_a343 u0_a343  923 2026-10-25 18:51 TencentUnipay.xml
+-rw-rw---- 1 u0_a343 u0_a343  127 2026-10-25 18:50 WebViewChromiumPrefs.xml
+-rw-rw---- 1 u0_a343 u0_a343  407 2026-10-25 18:51 apm_cfg.xml
+-rw-rw---- 1 u0_a343 u0_a343  130 2026-10-25 18:43 crashrecord.xml
+-rw-rw---- 1 u0_a343 u0_a343  196 2026-10-25 18:51 device_id.vip.xml
+-rw-rw---- 1 u0_a343 u0_a343  150 2026-10-25 18:50 icreate_fake_data.xml
+-rw-rw---- 1 u0_a343 u0_a343  647 2026-10-25 18:53 itop.xml
+-rw-rw---- 1 u0_a343 u0_a343  474 2026-10-25 18:43 lastBufferedMaps.xml
+-rw-rw---- 1 u0_a343 u0_a343  120 2026-10-25 18:51 lastUserId.xml
+-rw-rw---- 1 u0_a343 u0_a343  137 2026-10-25 18:51 pfStore.xml
+-rw-rw---- 1 u0_a343 u0_a343  121 2026-10-25 18:43 qm_global_sp.xml
+-rw-rw---- 1 u0_a343 u0_a343  153 2026-10-25 18:43 sdk_fix.xml
+-rw-rw---- 1 u0_a343 u0_a343  107 2026-10-25 18:50 secure_lib.xml
+-rw-rw---- 1 u0_a343 u0_a343  121 2026-10-25 18:50 settings_grobot.xml
+-rw-rw---- 1 u0_a343 u0_a343  802 2026-10-25 18:43 tdm.xml
+-rw-rw---- 1 u0_a343 u0_a343 1347 2026-10-25 18:44 tgpa.xml
+-rw-rw---- 1 u0_a343 u0_a343  630 2026-10-25 18:51 token_info_file.xml
+-rw-rw---- 1 u0_a343 u0_a343  280 2026-10-25 18:51 tpush.vip.service.shareprefs.xml
+-rw-rw---- 1 u0_a343 u0_a343  648 2026-10-25 18:54 tpush.vip.shareprefs.sub.xml
+-rw-rw---- 1 u0_a343 u0_a343  267 2026-10-25 18:51 tpush.vip.shareprefs.xml
+-rw-rw---- 1 u0_a343 u0_a343  367 2026-10-25 18:51 tri_cfg.xml
+-rw-rw---- 1 u0_a343 u0_a343  876 2026-10-25 18:43 tri_gem_control_sp.xml

@@ -1,0 +1,26 @@
+# 装备等级：关键字(小写, 子串匹配)  等级   —— 最长关键字优先
+# 传奇/史诗这类品级或护甲等级都行，数字会原样显示成「头4 甲3 包2」
+# --- 头盔 ---
+ssh40 1
+ssh68 2
+untar 3
+kiverm 3
+shpm 4
+# --- 护甲 ---
+vest_3m 2
+multicam 3
+kirasa 3
+fort 4
+sn_42 2
+# --- 背包 / 弹挂 ---
+sling 1
+duffle 2
+d3crx 2
+mrig 2
+wtirg 2
+6b3tm01m 2
+armybag 3
+mbss 3
+tbag 3
+sfmp 3
+6sh112 4

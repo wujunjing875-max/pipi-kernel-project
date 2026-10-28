@@ -1,0 +1,4 @@
+版本: v33-handover-2026-10-26
+采集端 md5: 44acddd77571e21246b3bb9c3e59600e  (39528 字节)
+绘制端 md5: 6a7dfe0ac3ef9fbac8d3779cb07dde55  (63796 字节)
+对应工作目录: tpen-work/v32-dec4-2026-10-26

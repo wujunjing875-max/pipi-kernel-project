@@ -1,0 +1,19 @@
+{
+  "device": "OPD2413 / android 16",
+  "render": "1280x906",
+  "frames": 240,
+  "live_seconds": 10.6,
+  "kernel_mode": "user",
+  "kernel_detail": "ERROR_ACCESS_DENIED (需要管理员权限，或驱动未允许该访问掩码)",
+  "fov": "circle r=210.0px",
+  "lock_rate": 97.5,
+  "first_lock_ms": 243.1,
+  "mean_post_err_px": 9.55,
+  "median_post_err_px": 6.28,
+  "max_post_err_px": 218.57,
+  "shots": 35,
+  "hits": 35,
+  "hit_rate": 100.0,
+  "trigger_ratio": 40.83,
+  "switches": 1
+}

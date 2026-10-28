@@ -1,0 +1,42 @@
+# 物资价格表：关键字(小写, 子串匹配)  单价
+# 匹配规则：按文件顺序，**后面的行覆盖前面的** —— 通用规则写前面，具体物品写后面
+# 改完保存，绘制端 5 秒内自动重载，不用重启
+# 下面数值只是起步示例，请按当前市场价自行校准
+--- 通用兜底（类型级）---
+helmet 3000
+vest 5000
+armor 5000
+headset 8000
+backpack 4000
+rig 6000
+bullet 500
+ammo 500
+magazine 2000
+adapter 2000
+scope 3000
+sight 3000
+medkit 3000
+bandage 1200
+key 5000
+--- 具体物品（覆盖上面的兜底值）---
+gpu 45000
+graphic 45000
+ledx 80000
+bitcoin 60000
+gold 40000
+jewel 30000
+m995 3000
+7n39 2800
+m61 2500
+m855 1200
+fort 25000
+comtac 20000
+kirasa 12000
+shpm 9000
+kiver 8000
+untar 6000
+ssh68 4000
+harddrive 9000
+battery 8000
+fuse 3000
+wire 2000
