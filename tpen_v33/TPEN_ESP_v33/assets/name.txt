@@ -1,0 +1,78 @@
+# 物资中文名：关键字(小写, 子串匹配)  中文名
+# 后面的行覆盖前面的；改完 5 秒自动重载
+# --- 护甲 / 头盔 / 耳机 ---
+vest_3m 3M防弹衣
+multicam 迷彩防弹衣
+shpm SHPM头盔
+untar UNTAR头盔
+kiverm Kiver头盔
+kirasa Kirasa防弹衣
+fort FORT防弹衣
+ssh68 SSh68头盔
+comtac2 ComTac2耳机
+sn_42 SN42防弹衣
+# --- 武器 / 弹药 ---
+aks74u AKS74U
+akm AKM
+mp133 MP133
+m9_bayonet M9刺刀
+m855a1 5.56M855A1
+pso 9x19PSO
+# --- 背包 / 弹挂 ---
+armybag 军用背包
+duffle 行李袋
+sling 单肩包
+mbss MBSS背包
+tbag T型背包
+sfmp SFMP背包
+d3crx D3CRX弹挂
+6sh112 6SH112背包
+mrig MRig弹挂
+wtirg WTRig弹挂
+6b3tm01m 6B3TM胸挂
+# --- 贵重 / 杂物 ---
+gpu 显卡
+graphic 显卡
+ledx LEDX
+bitcoin 比特币
+gold 金条
+jewel 珠宝
+harddrive 硬盘
+battery 电池
+fuse 保险丝
+wire 电线
+# --- 武器 ---
+ak74n AK74N
+glock18c 格洛克18C
+mp5 MP5
+suomi 索米KP31
+m1911 M1911
+sks SKS
+m700 M700
+vector 维克托
+p90 P90
+m249 M249
+# --- 投掷物 / 弹药 / 其它（实测类名）---
+stungrenade 闪光弹
+smokegrenade 烟雾弹
+zarya 扎里亚闪光弹
+m18 M18烟雾弹
+762x39 7.62x39弹
+9x19 9x19弹
+556x45 5.56x45弹
+545x39 5.45x39弹
+guwu 古董钥匙
+tacticalsport 战术运动耳机
+ssh40 SSH40钢盔
+hat_ssh40 SSH40钢盔
+adapter 武器配件
+throwweapon 投掷物
+# --- 弹匣（按容量/型号）---
+6l20 6L20弹匣
+6l31 6L31弹匣
+30r 30发弹匣
+45r 45发弹匣
+60r 60发弹匣
+95r 95发弹鼓
+_mag 弹匣
+magazine 弹匣

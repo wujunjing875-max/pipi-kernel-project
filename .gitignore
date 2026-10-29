@@ -1,0 +1,19 @@
+# 构建中间产物
+out/
+*.o
+*.obj
+*.jar
+
+# 大体积二进制（成品 apk/zip 不入库，需要时自行打包）
+*.apk
+*.zip
+!.gitkeep
+
+# 注意：*.tcol 是掩体透视的功能数据，不能挡（v40 用）
+# 注意：drivers/drv_*.sh 必须入库，那是驱动的唯一交付形态
+
+# 编辑器/系统
+.DS_Store
+Thumbs.db
+*.swp
+*~
