@@ -1,0 +1,96 @@
+BEFORE_CONFIG:
+fps=60
+price=2000
+dec=1
+dec2=0
+dec3=1
+dec4=1
+cat_n_crate=0
+cat_n_airdrop=0
+cat_n_locker=0
+cat_n_jewelry=0
+cat_n_unknown=0
+BEFORE_FILES:
+dec=1
+dec2=0
+dec3=1
+dec4=1
+DRIVER_SH_N=0
+PROCESS_SH_N=0
+PROCESS_STDOUT:
+process started: 3040x1904, waiting for com.tencent.mf.uam
+PROCESS_ADB_EXIT=0
+AFTER_8S:
+root         15018     1    7922788 215712 0                   0 S app_process
+master=1
+k0=1
+k1=1
+k2=1
+k3=1
+k4=1
+bone=1
+lab=1
+abar=1
+fps=60
+price=2000
+dec=1
+dec2=0
+dec3=1
+dec4=1
+cat_n_crate=0
+cat_n_airdrop=0
+cat_n_locker=0
+cat_n_jewelry=0
+cat_n_unknown=0
+screen=3040x1904
+rot=0
+aff=0.000000000,0.100000000,0.000000000,0.100000000,0.000000000,0.000000000
+AFTER_FILES:
+dec=1
+dec2=0
+dec3=1
+dec4=1
+DEVICE_HASHES:
+0b7e51d93c5e36cf5be2db617fb332bafb76395b0b4aea8436e13fd5c23c33e3  /data/local/tmp/.c/p
+e55cbc690719ac620fcd1df36cd00a95276447ed50e4d80c3ee72e3c8729ee26  /data/local/tmp/.c/o.dex
+16f79454d63add22cf2e41010cabc9d0cdaafc76ad911701ede102ec80e2ccd6  /data/local/tmp/glyph.png
+c39b6fe0b9e282d9244bbd3a0cfcd7d5a9f653f0412eaedac99265ea59b0ca32  /data/local/tmp/ov_ui.png
+P_LOG:
+module bases: maps=0x7a5c0a9000 driver_rc=0 driver=0x7a5c0a9000
+target pid=27330 fd=10 libUE4=0x7a5c0a9000 end=0x7a6d5b6000 arena=0x711c0a9000-0x7a5c0a9000
+runtime world scan: world_class=0x737c0daa80 level_class=0x737c43ad20 world=0x74bc7cdcb0 actors=71
+[cal] ctrl_off=0x348
+O_LOG:
+[*] 面板居中 pos=800,747 size=1440x410
+[*] builder opaque=false
+[*] transaction opaque=false
+[*] PorterDuff.CLEAR ready
+[!] Typeface.Builder 失败: java.lang.reflect.InvocationTargetException
+[!] 回退字体也失败: java.lang.reflect.InvocationTargetException
+[*] 中文字体就绪
+[*] 价格表载入 36 条 (文件已更新)
+[*] 字形图集 6858 字
+[*] 物资名表 69 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 中文图集就绪 52 项 bmp=true
+[*] ColorFilter SRC_IN ready
+[i] /dev/input 可列=true 数量=10
+[i] 已打开 /dev/input/event8
+[i] 已打开 /dev/input/event9
+[i] 已打开 /dev/input/event6
+[i] 已打开 /dev/input/event7
+[i] 已打开 /dev/input/event4
+[i] 已打开 /dev/input/event5
+[i] 已打开 /dev/input/event3
+[i] 已打开 /dev/input/event1
+[i] 已打开 /dev/input/event0
+[i] 已打开 /dev/input/event2
+[*] layer pos -> 0,0
+[*] layer ready 3040x1904 @800,747
+[*] frame 0 fps=0 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 300 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]

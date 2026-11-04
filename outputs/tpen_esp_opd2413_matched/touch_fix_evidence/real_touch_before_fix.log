@@ -1,0 +1,574 @@
+[*] 面板居中 pos=800,747 size=1440x410
+[*] builder opaque=false
+[*] transaction opaque=false
+[*] PorterDuff.CLEAR ready
+[!] Typeface.Builder 失败: java.lang.reflect.InvocationTargetException
+[!] 回退字体也失败: java.lang.reflect.InvocationTargetException
+[*] 中文字体就绪
+[*] 价格表载入 36 条 (文件已更新)
+[*] 字形图集 6858 字
+[*] 物资名表 69 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 中文图集就绪 52 项 bmp=true
+[*] ColorFilter SRC_IN ready
+[i] /dev/input 可列=true 数量=10
+[i] 已打开 /dev/input/event7
+[i] 已打开 /dev/input/event9
+[i] 已打开 /dev/input/event4
+[i] 已打开 /dev/input/event6
+[*] layer pos -> 0,0
+[*] layer ready 3040x1904 @800,747
+[i] 已打开 /dev/input/event2
+[i] 已打开 /dev/input/event1
+[i] 已打开 /dev/input/event3
+[i] 已打开 /dev/input/event8
+[i] 已打开 /dev/input/event5
+[i] 已打开 /dev/input/event0
+[*] frame 0 fps=0 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 300 fps=35 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 600 fps=32 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 900 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 1200 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 1500 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 1800 fps=24 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 2100 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 2400 fps=28 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 2700 fps=28 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 3000 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 3300 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 3600 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 3900 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 4200 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 4500 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 4800 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 5100 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 5400 fps=31 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 5700 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 6000 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 6300 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 6600 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 6900 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 7200 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 7500 fps=29 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 7800 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 8100 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 8400 fps=33 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 8700 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 9000 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 9300 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 9600 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 9900 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 10200 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 10500 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 10800 fps=27 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 11100 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 11400 fps=27 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 11700 fps=27 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 12000 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 12300 fps=28 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 12600 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 12900 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 13200 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 13500 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 13800 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 14100 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 14400 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 14700 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 15000 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 15300 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 15600 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 15900 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 16200 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 16500 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 16800 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 17100 fps=25 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 17400 fps=28 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 17700 fps=27 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 18000 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 18300 fps=26 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=-712,-527 PH=838
+[GEST] none local=-712,-527 PH=838
+[TAP] raw=141,1178 -> 117,14 rot=0 local=-683,-519 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 18600 fps=42 tap=1 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[GEST] none local=-683,576 PH=838
+[TAP] raw=11090,22010 -> 2201,1109 rot=0 local=1401,576 scroll=0 max=0 moved=false
+[UI] id=108
+[GEST] scroll local=1401,565 maxScroll=0
+[TAP] raw=10980,21930 -> 2193,1098 rot=0 local=1393,565 scroll=0 max=0 moved=false
+[UI] id=108
+[GEST] scroll local=1393,566 maxScroll=0
+[GEST] scroll local=1393,565 maxScroll=0
+[TAP] raw=11007,21922 -> 2192,1100 rot=0 local=1392,567 scroll=0 max=0 moved=false
+[UI] id=108
+[GEST] scroll local=1392,569 maxScroll=0
+[GEST] scroll local=1392,569 maxScroll=0
+[TAP] raw=11053,21920 -> 2192,1105 rot=0 local=1392,572 scroll=0 max=0 moved=false
+[UI] id=108
+[GEST] scroll local=1392,572 maxScroll=0
+[TAP] raw=11050,21920 -> 2192,1105 rot=0 local=1392,572 scroll=0 max=0 moved=false
+[UI] id=108
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] scroll local=1392,273 maxScroll=0
+[TAP] raw=8060,12630 -> 1263,806 rot=0 local=463,273 scroll=0 max=0 moved=false
+[UI] id=10
+[GEST] scroll local=463,242 maxScroll=0
+[TAP] raw=7750,12630 -> 1263,775 rot=0 local=463,242 scroll=0 max=0 moved=false
+[TAP] raw=7750,12630 -> 1263,775 rot=0 local=463,242 scroll=0 max=0 moved=false
+[GEST] scroll local=463,560 maxScroll=0
+[TAP] raw=10930,11290 -> 1129,1093 rot=0 local=329,560 scroll=0 max=0 moved=false
+[UI] id=103
+[GEST] scroll local=329,611 maxScroll=0
+[TAP] raw=11440,11110 -> 1111,1144 rot=0 local=311,611 scroll=0 max=0 moved=false
+[UI] id=109
+[GEST] scroll local=311,601 maxScroll=0
+[TAP] raw=11340,11160 -> 1116,1134 rot=0 local=316,601 scroll=0 max=0 moved=false
+[UI] id=106
+[GEST] scroll local=316,620 maxScroll=0
+[TAP] raw=11530,11290 -> 1129,1153 rot=0 local=329,620 scroll=0 max=0 moved=false
+[UI] id=109
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] scroll local=329,631 maxScroll=0
+[TAP] raw=11640,11620 -> 1162,1164 rot=0 local=362,631 scroll=0 max=0 moved=false
+[UI] id=109
+[GEST] scroll local=362,673 maxScroll=0
+[TAP] raw=12060,11120 -> 1112,1206 rot=0 local=312,673 scroll=0 max=0 moved=false
+[UI] id=112
+[GEST] scroll local=312,708 maxScroll=0
+[TAP] raw=12410,10760 -> 1076,1241 rot=0 local=276,708 scroll=0 max=0 moved=false
+[UI] id=115
+[GEST] scroll local=276,704 maxScroll=0
+[TAP] raw=12370,10890 -> 1089,1237 rot=0 local=289,704 scroll=0 max=0 moved=false
+[UI] id=115
+[GEST] scroll local=289,691 maxScroll=0
+[TAP] raw=12240,10960 -> 1096,1224 rot=0 local=296,691 scroll=0 max=0 moved=false
+[UI] id=112
+[GEST] scroll local=296,671 maxScroll=0
+[TAP] raw=12040,10980 -> 1098,1204 rot=0 local=298,671 scroll=0 max=0 moved=false
+[UI] id=112
+[GEST] scroll local=298,710 maxScroll=0
+[GEST] scroll local=188,710 maxScroll=0
+[TAP] raw=13245,6963 -> 696,1324 rot=0 local=-104,791 scroll=0 max=0 moved=true
+[GEST] none local=-104,766 PH=838
+[GEST] scroll local=217,765 maxScroll=0
+[*] frame 18900 fps=26 tap=20 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[TAP] raw=11093,8156 -> 815,1109 rot=0 local=15,576 scroll=0 max=0 moved=true
+[GEST] scroll local=15,776 maxScroll=0
+[GEST] scroll local=188,775 maxScroll=0
+[TAP] raw=11634,8094 -> 809,1163 rot=0 local=9,630 scroll=0 max=0 moved=true
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 19200 fps=25 tap=22 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=9,-402 PH=838
+[TAP] raw=1310,27140 -> 2714,131 rot=0 local=1914,-402 scroll=0 max=0 moved=false
+[GEST] none local=1914,-388 PH=838
+[GEST] none local=1912,-389 PH=838
+[TAP] raw=1456,27097 -> 2709,145 rot=0 local=1909,-388 scroll=0 max=0 moved=false
+[*] frame 19500 fps=29 tap=24 hidden=false [K0=0/null 1=0/null 2=0/null 3=0/null 4=0/null ]
+[GEST] none local=1909,-308 PH=838
+[TAP] raw=2250,26270 -> 2627,225 rot=0 local=1827,-308 scroll=0 max=0 moved=false
+[GEST] none local=1827,-412 PH=838
+[GEST] none local=1914,-413 PH=838
+[TAP] raw=1171,27172 -> 2717,117 rot=0 local=1917,-416 scroll=0 max=0 moved=false
+[GEST] none local=1917,182 PH=838
+[GEST] scroll local=1260,183 maxScroll=0
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[TAP] raw=9766,21039 -> 2103,976 rot=0 local=1303,443 scroll=0 max=0 moved=true
+[GEST] none local=1303,843 PH=838
+[TAP] raw=13760,23220 -> 2322,1376 rot=0 local=1522,843 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=1522,1343 PH=838
+[GEST] none local=-748,1342 PH=838
+[TAP] raw=18711,404 -> 40,1871 rot=0 local=-760,1338 scroll=0 max=0 moved=false
+[*] frame 19800 fps=26 tap=29 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=-760,400 PH=838
+[GEST] scroll local=287,400 maxScroll=0
+[TAP] raw=9373,10883 -> 1088,937 rot=0 local=288,404 scroll=0 max=0 moved=false
+[UI] id=31
+[GEST] scroll local=288,452 maxScroll=0
+[TAP] raw=9850,10750 -> 1075,985 rot=0 local=275,452 scroll=0 max=0 moved=false
+[GEST] scroll local=275,454 maxScroll=0
+[GEST] scroll local=372,455 maxScroll=0
+[TAP] raw=9887,11713 -> 1171,988 rot=0 local=371,455 scroll=0 max=0 moved=false
+[GEST] scroll local=371,423 maxScroll=0
+[TAP] raw=9560,11830 -> 1183,956 rot=0 local=383,423 scroll=0 max=0 moved=false
+[GEST] scroll local=383,446 maxScroll=0
+[TAP] raw=9790,11720 -> 1172,979 rot=0 local=372,446 scroll=0 max=0 moved=false
+[GEST] scroll local=372,463 maxScroll=0
+[TAP] raw=9960,11700 -> 1170,996 rot=0 local=370,463 scroll=0 max=0 moved=false
+[GEST] scroll local=370,464 maxScroll=0
+[GEST] scroll local=370,430 maxScroll=0
+[TAP] raw=9630,11450 -> 1145,963 rot=0 local=345,430 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] scroll local=345,433 maxScroll=0
+[TAP] raw=9660,11630 -> 1163,966 rot=0 local=363,433 scroll=0 max=0 moved=false
+[GEST] scroll local=363,446 maxScroll=0
+[TAP] raw=9790,11370 -> 1137,979 rot=0 local=337,446 scroll=0 max=0 moved=false
+[GEST] scroll local=337,508 maxScroll=0
+[GEST] scroll local=297,507 maxScroll=0
+[TAP] raw=10466,10933 -> 1093,1046 rot=0 local=293,513 scroll=0 max=0 moved=false
+[UI] id=100
+[GEST] scroll local=293,537 maxScroll=0
+[GEST] scroll local=306,536 maxScroll=0
+[TAP] raw=10621,11080 -> 1108,1062 rot=0 local=308,529 scroll=0 max=0 moved=false
+[UI] id=103
+[GEST] scroll local=308,502 maxScroll=0
+[GEST] scroll local=310,501 maxScroll=0
+[TAP] raw=10357,11139 -> 1113,1035 rot=0 local=313,502 scroll=0 max=0 moved=false
+[UI] id=100
+[GEST] scroll local=313,502 maxScroll=0
+[GEST] scroll local=314,501 maxScroll=0
+[TAP] raw=10193,11185 -> 1118,1019 rot=0 local=318,486 scroll=0 max=0 moved=true
+[GEST] scroll local=318,456 maxScroll=0
+[TAP] raw=9890,9360 -> 936,989 rot=0 local=136,456 scroll=0 max=0 moved=false
+[GEST] scroll local=136,460 maxScroll=0
+[TAP] raw=9930,9140 -> 914,993 rot=0 local=114,460 scroll=0 max=0 moved=false
+[GEST] scroll local=114,496 maxScroll=0
+[GEST] scroll local=111,495 maxScroll=0
+[TAP] raw=10340,9127 -> 912,1034 rot=0 local=112,501 scroll=0 max=0 moved=false
+[UI] id=100
+[GEST] scroll local=112,502 maxScroll=0
+[GEST] scroll local=114,501 maxScroll=0
+[TAP] raw=10290,9223 -> 922,1029 rot=0 local=122,496 scroll=0 max=0 moved=false
+[UI] id=100
+[*] frame 20100 fps=25 tap=46 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[GEST] scroll local=122,473 maxScroll=0
+[TAP] raw=10060,9010 -> 901,1006 rot=0 local=101,473 scroll=0 max=0 moved=false
+[GEST] scroll local=101,494 maxScroll=0
+[GEST] scroll local=51,493 maxScroll=0
+[TAP] raw=10066,8617 -> 861,1006 rot=0 local=61,473 scroll=0 max=0 moved=true
+[GEST] scroll local=61,628 maxScroll=0
+[GEST] scroll local=63,626 maxScroll=0
+[TAP] raw=10973,8659 -> 865,1097 rot=0 local=65,564 scroll=0 max=0 moved=true
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 20400 fps=26 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 20700 fps=25 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 21000 fps=26 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 21300 fps=25 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 21600 fps=36 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 21900 fps=27 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 22200 fps=26 tap=49 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条

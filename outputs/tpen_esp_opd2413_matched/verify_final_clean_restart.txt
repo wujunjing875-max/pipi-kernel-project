@@ -1,0 +1,100 @@
+BEFORE_CONFIG:
+master=1
+k0=1
+k1=1
+k2=1
+k3=1
+k4=1
+bone=1
+lab=1
+abar=1
+fps=60
+price=2000
+dec=1
+dec2=0
+dec3=1
+dec4=1
+PROCESS_STDOUT:
+process started: 3040x1904, waiting for com.tencent.mf.uam
+PROCESS_EXIT=0
+PROCESSES:
+29770 /data/local/tmp/.c/p
+7074 /data/local/tmp/p_current
+CONFIG_AFTER:
+master=1
+k0=1
+k1=1
+k2=1
+k3=1
+k4=1
+bone=1
+lab=1
+abar=1
+fps=60
+price=2000
+dec=1
+dec2=0
+dec3=1
+dec4=1
+DEC_FILES_AFTER:
+dec=1
+dec2=0
+dec3=1
+dec4=1
+HASHES:
+0b7e51d93c5e36cf5be2db617fb332bafb76395b0b4aea8436e13fd5c23c33e3  /data/local/tmp/.c/p
+2f2eb666fbc23453f3ff76cb4b3b8f7f050d04330d3baa62d6d8137ae3ed3193  /data/local/tmp/.c/o.dex
+P_LOG:
+module bases: maps=0x7a5c0a9000 driver_rc=0 driver=0x7a5c0a9000
+target pid=27330 fd=10 libUE4=0x7a5c0a9000 end=0x7a6d5b6000 arena=0x711c0a9000-0x7a5c0a9000
+runtime world scan: world_class=0x737c0daa80 level_class=0x737c43ad20 world=0x74bc7cdcb0 actors=71
+[cal] ctrl_off=0x348
+O_LOG_HEAD:
+[*] 面板居中 pos=800,747 size=1440x410
+[*] builder opaque=false
+[*] transaction opaque=false
+[*] PorterDuff.CLEAR ready
+[!] Typeface.Builder 失败: java.lang.reflect.InvocationTargetException
+[!] 回退字体也失败: java.lang.reflect.InvocationTargetException
+[*] 中文字体就绪
+[*] 价格表载入 36 条 (文件已更新)
+[*] 字形图集 6858 字
+[*] 物资名表 69 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 中文图集就绪 52 项 bmp=true
+[*] ColorFilter SRC_IN ready
+[i] /dev/input 可列=true 数量=10
+[i] 已打开 /dev/input/event7
+[i] 已打开 /dev/input/event9
+[i] 已打开 /dev/input/event4
+[i] 已打开 /dev/input/event6
+[*] layer pos -> 0,0
+[*] layer ready 3040x1904 @800,747
+[i] 已打开 /dev/input/event2
+[i] 已打开 /dev/input/event1
+[i] 已打开 /dev/input/event3
+[i] 已打开 /dev/input/event8
+[i] 已打开 /dev/input/event5
+[i] 已打开 /dev/input/event0
+[*] frame 0 fps=0 tap=0 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+ESP1:
+pid=27330
+ts=1793343668174
+cnt=71
+local=-598,2129,99
+s=2316 475 2300 396
+s=2316 475 2309 1003
+mtime=1793343668 size=916
+ESP2:
+pid=27330
+ts=1793343671228
+cnt=71
+local=-598,2129,99
+s=2291 482 2279 403
+s=2291 482 2293 1008
+mtime=1793343671 size=919

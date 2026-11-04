@@ -1,0 +1,4 @@
+pid=27330 lib=0x7a5c0a9000-0x7a6d5b6000 names=0x7a6c6d1080 ranges=936
+hit obj=0x7bde607038 vt_off=0x68df8d4 cls=0x721c0d8640 cls_idx=925138 class=AnimNotifyRuntimeWorldSubsystem obj_idx=3694766080 object=-
+  tarray +0x158 data=0x713da5da60 count=2 cap=14
+pages=110084 named_uobjects=41902 classes=247 hits=1

@@ -1,0 +1,67 @@
+===BEFORE===
+k0=1
+k1=1
+k2=1
+k3=1
+k4=1
+bone=1
+lab=1
+abar=1
+dec=1
+dec2=0
+dec3=1
+dec4=1
+files=1,0,0,0
+===ALL_TOGGLED_ONCE===
+k0=0
+k1=0
+k2=0
+k3=0
+k4=0
+bone=1
+lab=0
+abar=0
+dec=0
+dec2=1
+dec3=0
+dec4=1
+files=0,1,0,1
+===RESTORED===
+k0=1
+k1=1
+k2=0
+k3=0
+k4=1
+bone=0
+lab=1
+abar=0
+dec=0
+dec2=1
+dec3=1
+dec4=0
+files=0,1,1,0
+===TAP_TAIL===
+[TAP] raw=6200,10000 -> 1000,620 rot=0 local=200,87 scroll=0 max=0 moved=false
+[TAP] raw=6200,17000 -> 1700,620 rot=0 local=900,87 scroll=0 max=0 moved=false
+[TAP] raw=6640,10000 -> 1000,664 rot=0 local=200,131 scroll=0 max=0 moved=false
+[TAP] raw=6640,17000 -> 1700,664 rot=0 local=900,131 scroll=0 max=0 moved=false
+[TAP] raw=7080,10000 -> 1000,708 rot=0 local=200,175 scroll=0 max=0 moved=false
+[TAP] raw=7080,17000 -> 1700,708 rot=0 local=900,175 scroll=0 max=0 moved=false
+[TAP] raw=7520,10000 -> 1000,752 rot=0 local=200,219 scroll=0 max=0 moved=false
+[TAP] raw=7520,17000 -> 1700,752 rot=0 local=900,219 scroll=0 max=0 moved=false
+[TAP] raw=7960,10000 -> 1000,796 rot=0 local=200,263 scroll=0 max=0 moved=false
+[TAP] raw=7960,17000 -> 1700,796 rot=0 local=900,263 scroll=0 max=0 moved=false
+[TAP] raw=8400,10000 -> 1000,840 rot=0 local=200,307 scroll=0 max=0 moved=false
+[TAP] raw=8400,17000 -> 1700,840 rot=0 local=900,307 scroll=0 max=0 moved=false
+[TAP] raw=6200,10000 -> 1000,620 rot=0 local=200,87 scroll=0 max=0 moved=false
+[TAP] raw=6200,17000 -> 1700,620 rot=0 local=900,87 scroll=0 max=0 moved=false
+[TAP] raw=6640,10000 -> 1000,664 rot=0 local=200,131 scroll=0 max=0 moved=false
+[TAP] raw=6640,17000 -> 1700,664 rot=0 local=900,131 scroll=0 max=0 moved=false
+[TAP] raw=7080,10000 -> 1000,708 rot=0 local=200,175 scroll=0 max=0 moved=false
+[TAP] raw=7080,17000 -> 1700,708 rot=0 local=900,175 scroll=0 max=0 moved=false
+[TAP] raw=7520,10000 -> 1000,752 rot=0 local=200,219 scroll=0 max=0 moved=false
+[TAP] raw=7520,17000 -> 1700,752 rot=0 local=900,219 scroll=0 max=0 moved=false
+[TAP] raw=7960,10000 -> 1000,796 rot=0 local=200,263 scroll=0 max=0 moved=false
+[TAP] raw=7960,17000 -> 1700,796 rot=0 local=900,263 scroll=0 max=0 moved=false
+[TAP] raw=8400,10000 -> 1000,840 rot=0 local=200,307 scroll=0 max=0 moved=false
+[TAP] raw=8400,17000 -> 1700,840 rot=0 local=900,307 scroll=0 max=0 moved=false

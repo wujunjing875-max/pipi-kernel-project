@@ -1,0 +1,17 @@
+pid=27330 base=0x7a5c0a9000 pool=0x7a6c6d1080 current_block=163 cursor=19718 ranges=936
+first_scan pages=112337 named_objects=8
+fname name=Engine id=227 hex=0xe3 block=0 off=0x1c6
+fname name=PersistentLevel id=474 hex=0x1da block=0 off=0x3b4
+fname name=World id=559483 hex=0x8897b block=8 off=0x112f6
+fname name=Level id=559487 hex=0x8897f block=8 off=0x112fe
+fname name=GameEngine id=827987 hex=0xca253 block=12 off=0x144a6
+fname name=GameInstance id=916666 hex=0xdfcba block=13 off=0x1f974
+fname name=GameViewportClient id=1192351 hex=0x12319f block=18 off=0x633e
+named_obj name=Engine id=227 obj=0x7b21601c28 vt_off=0xa6c5fe flags_index=0x7a5ca05f06 class=0x2dbffffffff outer=0x7a5cb15620
+named_obj name=PersistentLevel id=474 obj=0x7b21603b08 vt_off=0xef6514 flags_index=0x7a5cb5dba4 class=0x44ffffffff outer=0x7a5c874b7e
+named_obj name=World id=559483 obj=0x737c0daa80 vt_off=0xf926a28 flags_index=0x4f00000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameInstance id=916666 obj=0x737c188540 vt_off=0xf926a28 flags_index=0x49e00000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=Engine id=227 obj=0x737c262a80 vt_off=0xf926a28 flags_index=0x9c500000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameEngine id=827987 obj=0x737c31ad20 vt_off=0xf926a28 flags_index=0xe4100000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameViewportClient id=1192351 obj=0x737c41ba80 vt_off=0xf926a28 flags_index=0x146300000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=Level id=559487 obj=0x737c43ad20 vt_off=0xf926a28 flags_index=0x151e00000043 class=0x737c0faa80 outer=0x70c6a090a0

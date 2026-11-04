@@ -1,0 +1,90 @@
+pid=27330 base=0x7a5c0a9000 pool=0x7a6c6d1080 current_block=163 cursor=19718 ranges=968
+first_scan pages=202652 named_objects=22
+fname name=Engine id=227 hex=0xe3 block=0 off=0x1c6
+fname name=PersistentLevel id=474 hex=0x1da block=0 off=0x3b4
+fname name=World id=559483 hex=0x8897b block=8 off=0x112f6
+fname name=Level id=559487 hex=0x8897f block=8 off=0x112fe
+fname name=GameEngine id=827987 hex=0xca253 block=12 off=0x144a6
+fname name=GameInstance id=916666 hex=0xdfcba block=13 off=0x1f974
+fname name=GameViewportClient id=1192351 hex=0x12319f block=18 off=0x633e
+named_obj name=Engine id=227 obj=0x7b21601c28 vt_off=0xa6c5fe flags_index=0x7a5ca05f06 class=0x2dbffffffff outer=0x7a5cb15620
+named_obj name=PersistentLevel id=474 obj=0x7b21603b08 vt_off=0xef6514 flags_index=0x7a5cb5dba4 class=0x44ffffffff outer=0x7a5c874b7e
+named_obj name=PersistentLevel id=474 obj=0x713c1d2d78 vt_off=0xc511f4c flags_index=0x7a6a8549c8 class=0x0 outer=0x7a685bb848
+named_obj name=PersistentLevel id=474 obj=0x71dc85f8c0 vt_off=0xfe1ac28 flags_index=0x1 class=0x2dc690100 outer=0x3000034af
+named_obj name=Level id=559487 obj=0x72dc9a2b80 vt_off=0xfa87168 flags_index=0x3630100000008 class=0x737c3ef540 outer=0x717dbfcb40
+named_obj name=Level id=559487 obj=0x72dca0a5c0 vt_off=0xfa87168 flags_index=0x363f600280008 class=0x737c3ef540 outer=0x717dc08580
+named_obj name=Engine id=227 obj=0x72dd4764c0 vt_off=0x1068c760 flags_index=0x5001000000000 class=0x743c53ec00 outer=0x0
+named_obj name=World id=559483 obj=0x737c0daa80 vt_off=0xf926a28 flags_index=0x4f00000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameInstance id=916666 obj=0x737c188540 vt_off=0xf926a28 flags_index=0x49e00000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=Engine id=227 obj=0x737c262a80 vt_off=0xf926a28 flags_index=0x9c500000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameEngine id=827987 obj=0x737c31ad20 vt_off=0xf926a28 flags_index=0xe4100000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameViewportClient id=1192351 obj=0x737c41ba80 vt_off=0xf926a28 flags_index=0x146300000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=Level id=559487 obj=0x737c43ad20 vt_off=0xf926a28 flags_index=0x151e00000043 class=0x737c0faa80 outer=0x70c6a090a0
+named_obj name=GameViewportClient id=1192351 obj=0x73dc241400 vt_off=0xfb566a8 flags_index=0xe09700000040 class=0x737c41ba80 outer=0x753c0ac000
+named_obj name=PersistentLevel id=474 obj=0x73fd377000 vt_off=0xfd18ed8 flags_index=0x3867c00280008 class=0x737c43ad20 outer=0x74bc7d4640
+named_obj name=PersistentLevel id=474 obj=0x73fd4f66d0 vt_off=0xfd18ed8 flags_index=0x35f1b00280008 class=0x737c43ad20 outer=0x74bc581320
+named_obj name=PersistentLevel id=474 obj=0x73fd564240 vt_off=0xfd18ed8 flags_index=0x3515f00280008 class=0x737c43ad20 outer=0x74bc443cb0
+named_obj name=PersistentLevel id=474 obj=0x73fd6d0b60 vt_off=0xfd18ed8 flags_index=0x3ee6200280008 class=0x737c43ad20 outer=0x74bc2ea320
+named_obj name=PersistentLevel id=474 obj=0x73fd6d1db0 vt_off=0xfd18ed8 flags_index=0x3eebb00280008 class=0x737c43ad20 outer=0x74bc2dbcb0
+named_obj name=PersistentLevel id=474 obj=0x73fd6d3490 vt_off=0xfd18ed8 flags_index=0x3ef6f00280008 class=0x737c43ad20 outer=0x74bc186640
+named_obj name=PersistentLevel id=474 obj=0x73fd6dc240 vt_off=0xfd18ed8 flags_index=0x3f55100280008 class=0x737c43ad20 outer=0x74bc158cb0
+named_obj name=PersistentLevel id=474 obj=0x73fd6dcb60 vt_off=0xfd18ed8 flags_index=0x3efc800280008 class=0x737c43ad20 outer=0x74bcea8cb0
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ebe00 vt_off=0xf92fb70 name_id=1 outer=0x0
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ebe80 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ebe00
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec100 vt_off=0xf9301a0 name_id=1 outer=0x721c448a00
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec180 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec100
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec280 vt_off=0xf9301a0 name_id=1 outer=0x721c448aa0
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec400 vt_off=0xf9301a0 name_id=1 outer=0x721c448be0
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec480 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec400
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec500 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec480
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec580 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec500
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec600 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec580
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec680 vt_off=0xf92e538 name_id=1 outer=0x71fd0ec600
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec700 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec680
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec780 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec700
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec800 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec780
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec880 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec800
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec900 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ec880
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ec980 vt_off=0xf930d00 name_id=1 outer=0x71fd0ec900
+instance class_name=World class=0x737c0daa80 obj=0x71fd0eca00 vt_off=0xf92fb70 name_id=1 outer=0x71fd0ec980
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ecc00 vt_off=0xf9301a0 name_id=1 outer=0x721c448dc0
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ecc80 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ecc00
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ecd00 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ecc80
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ecd80 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ecd00
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ece00 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ecd80
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ece80 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ece00
+instance class_name=World class=0x737c0daa80 obj=0x71fd0ecf00 vt_off=0xf9301a0 name_id=1 outer=0x71fd0ece80
+instance class_name=World class=0x737c0daa80 obj=0x721c448820 vt_off=0xf92b330 name_id=1 outer=0x71fd0ebe80
+instance class_name=World class=0x737c0daa80 obj=0x721c4488c0 vt_off=0xf92b330 name_id=1 outer=0x721c448820
+instance class_name=World class=0x737c0daa80 obj=0x721c448960 vt_off=0xf92fa28 name_id=1 outer=0x721c4488c0
+instance class_name=World class=0x737c0daa80 obj=0x721c448a00 vt_off=0xf92b330 name_id=1 outer=0x721c448960
+instance class_name=World class=0x737c0daa80 obj=0x721c448aa0 vt_off=0xf92b330 name_id=1 outer=0x71fd0ec180
+instance class_name=World class=0x737c0daa80 obj=0x721c448b40 vt_off=0xf92b330 name_id=1 outer=0x71fd0ec280
+instance class_name=World class=0x737c0daa80 obj=0x721c448be0 vt_off=0xf92b330 name_id=1 outer=0x721c448b40
+instance class_name=World class=0x737c0daa80 obj=0x721c448c80 vt_off=0xf92b330 name_id=1 outer=0x71fd0eca00
+instance class_name=World class=0x737c0daa80 obj=0x721c448d20 vt_off=0xf92b330 name_id=1 outer=0x721c448c80
+instance class_name=World class=0x737c0daa80 obj=0x721c448dc0 vt_off=0xf92b330 name_id=1 outer=0x721c448d20
+instance class_name=World class=0x737c0daa80 obj=0x74bc158cb0 vt_off=0xfe06c28 name_id=5782215 outer=0x721d41c8c0
+instance class_name=World class=0x737c0daa80 obj=0x74bc186640 vt_off=0xfe06c28 name_id=5795842 outer=0x721c621500
+instance class_name=World class=0x737c0daa80 obj=0x74bc1d8990 vt_off=0xfe06c28 name_id=2243617 outer=0x70c6a090a0
+instance class_name=World class=0x737c0daa80 obj=0x74bc2dbcb0 vt_off=0xfe06c28 name_id=5795077 outer=0x721d3bd5a0
+instance class_name=World class=0x737c0daa80 obj=0x74bc2ea320 vt_off=0xfe06c28 name_id=5796972 outer=0x721cd81780
+instance class_name=World class=0x737c0daa80 obj=0x74bc443cb0 vt_off=0xfe06c28 name_id=10690615 outer=0x721cd968c0
+instance class_name=World class=0x737c0daa80 obj=0x74bc581320 vt_off=0xfe06c28 name_id=10668878 outer=0x721cd00140
+instance class_name=World class=0x737c0daa80 obj=0x74bc7d4640 vt_off=0xfe06c28 name_id=6176943 outer=0x721cbe3640
+instance class_name=World class=0x737c0daa80 obj=0x74bcea8cb0 vt_off=0xfe06c28 name_id=5798124 outer=0x721d4c6140
+instance class_name=GameInstance class=0x737c188540 obj=0x71fc18d080 vt_off=0xf931108 name_id=1 outer=0x0
+instance class_name=GameInstance class=0x737c188540 obj=0x71fc18d180 vt_off=0xf9301a0 name_id=1 outer=0x721c1eb3c0
+instance class_name=GameInstance class=0x737c188540 obj=0x721c1eb3c0 vt_off=0xf92b330 name_id=1 outer=0x71fc18d080
+instance class_name=GameInstance class=0x737c188540 obj=0x721c1eb500 vt_off=0xf92b330 name_id=1 outer=0x71fc18d180
+instance class_name=GameInstance class=0x737c188540 obj=0x731c0fe380 vt_off=0xfb52258 name_id=2217337 outer=0x70c6a090a0
+instance class_name=GameEngine class=0x737c31ad20 obj=0x71fce79680 vt_off=0xf9301a0 name_id=1 outer=0x0
+instance class_name=GameEngine class=0x737c31ad20 obj=0x71fce79700 vt_off=0xf92b478 name_id=1 outer=0x71fce79680
+instance class_name=GameEngine class=0x737c31ad20 obj=0x71fce79780 vt_off=0xf92b478 name_id=1 outer=0x71fce79700
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x71fd036d80 vt_off=0xf9301a0 name_id=1 outer=0x0
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x71fd036e00 vt_off=0xf9301a0 name_id=1 outer=0x71fd036d80
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x71fd036e80 vt_off=0xe96fc90 name_id=1 outer=0x71fd036e00
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x71fd036f80 vt_off=0xf9301a0 name_id=1 outer=0x721c43b640
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x721c43b640 vt_off=0xf92b330 name_id=1 outer=0x71fd036e80
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x73dc1a6800 vt_off=0xfb566a8 name_id=2228783 outer=0x70c6a090a0
+instance class_name=GameViewportClient class=0x737c41ba80 obj=0x73dc241400 vt_off=0xfb566a8 name_id=1192351 outer=0x753c0ac000

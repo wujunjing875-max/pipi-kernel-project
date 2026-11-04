@@ -1,0 +1,12 @@
+[*] 装备等级表 21 条
+[TAP] raw=12840,10000 -> 1000,620 rot=1 local=200,87 scroll=0 max=0 moved=false
+[UI] id=1
+[TAP] raw=12840,10000 -> 1000,620 rot=1 local=200,87 scroll=0 max=0 moved=false
+[UI] id=1
+[GEST] drag local=200,47
+[*] frame 4800 fps=28 tap=2 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[TAP] raw=12440,12000 -> 1200,660 rot=1 local=200,47 scroll=0 max=0 moved=false
+[GEST] drag local=200,27
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[TAP] raw=13440,10000 -> 1000,560 rot=1 local=200,27 scroll=0 max=0 moved=false

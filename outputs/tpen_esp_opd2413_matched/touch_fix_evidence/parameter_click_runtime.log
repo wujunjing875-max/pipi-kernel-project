@@ -1,0 +1,12 @@
+[*] 装备等级表 21 条
+[TAP] raw=10270,11260 -> 1126,877 rot=1 local=326,344 scroll=0 max=0 moved=false
+[UI] id=22
+[*] frame 6300 fps=30 tap=5 hidden=false [K0=0/null 1=1/BP_UamCharacterTemplate_Preview_C 2=0/null 3=0/null 4=0/null ]
+[TAP] raw=10270,10340 -> 1034,877 rot=1 local=234,344 scroll=0 max=0 moved=false
+[UI] id=21
+[TAP] raw=9830,11910 -> 1191,921 rot=1 local=391,388 scroll=0 max=0 moved=false
+[UI] id=32
+[TAP] raw=9830,10730 -> 1073,921 rot=1 local=273,388 scroll=0 max=0 moved=false
+[UI] id=31
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条

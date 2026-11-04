@@ -1,0 +1,14 @@
+DEVICE=HA28LRFH
+k0: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+k1: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+k2: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+bone: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+lab: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+k3: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+k4: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+abar: start=1 changed=0 file_changed=- restored=1 file_restored=- PASS=True
+dec: start=1 changed=0 file_changed=0 restored=1 file_restored=1 PASS=True
+dec2: start=0 changed=1 file_changed=1 restored=0 file_restored=0 PASS=True
+dec3: start=1 changed=0 file_changed=0 restored=1 file_restored=1 PASS=True
+dec4: start=1 changed=0 file_changed=0 restored=1 file_restored=1 PASS=True
+TOTAL=12 FAIL=0

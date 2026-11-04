@@ -1,0 +1,26 @@
+DEVICE=HA28LRFH
+CONFIG=/data/local/tmp/ov_cfg.txt
+TEST=each category toggled once and restored to its exact starting value
+cat_n_box_player: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_box_bot: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_safebox: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_med: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_ammo: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_weapon: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_tool: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_bag: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_drawer: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_wardrobe: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_jacket: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_pc: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_file: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_cash: start=1 changed=0 change_attempts=1 restored=1 restore_attempts=1 PASS=True
+cat_n_fridge: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_washer: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_case: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_crate: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_airdrop: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_locker: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_jewelry: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+cat_n_unknown: start=0 changed=1 change_attempts=1 restored=0 restore_attempts=1 PASS=True
+TOTAL=22 FAIL=0

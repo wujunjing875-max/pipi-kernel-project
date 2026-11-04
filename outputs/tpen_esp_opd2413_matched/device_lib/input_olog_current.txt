@@ -1,0 +1,264 @@
+---INPUT---
+add device 1: /dev/input/event9
+  name:     "sun-qrd-sku2-snd-card Button Jack"
+add device 2: /dev/input/event8
+  name:     "sun-qrd-sku2-snd-card Headset Jack"
+add device 3: /dev/input/event7
+  name:     "double-headset-input"
+add device 4: /dev/input/event6
+  name:     "NVTCapacitivePen"
+add device 5: /dev/input/event5
+  name:     "NVTCapacitiveTouchScreen"
+add device 6: /dev/input/event4
+  name:     "aw-haptic-hv"
+add device 7: /dev/input/event3
+  name:     "aw-haptic-hv"
+add device 8: /dev/input/event2
+  name:     "pmic_resin"
+add device 9: /dev/input/event1
+  name:     "pmic_pwrkey"
+add device 10: /dev/input/event0
+  name:     "gpio-keys"
+---CFG---
+-rw-r--r-- 1 root root 528 2026-10-30 14:12 /data/local/tmp/ov_cfg.txt
+master=1
+k0=1
+k1=1
+k2=1
+k3=1
+k4=1
+bone=1
+lab=1
+abar=1
+fps=60
+price=2000
+screen=3040x1904
+rot=-1
+dec=1
+dec2=0
+dec3=1
+dec4=1
+aff=0.317777187,0.108148791,-5796.214843750,-0.639435649,0.692194343,-8073.690917969
+cat_n_box_player=1
+cat_n_box_bot=1
+cat_n_safebox=1
+cat_n_med=0
+cat_n_ammo=0
+cat_n_weapon=1
+cat_n_tool=0
+cat_n_bag=1
+cat_n_drawer=0
+cat_n_wardrobe=1
+cat_n_jacket=0
+cat_n_pc=0
+cat_n_file=0
+cat_n_cash=1
+cat_n_fridge=0
+cat_n_washer=0
+cat_n_case=0
+cat_n_crate=0
+cat_n_airdrop=0
+cat_n_locker=0
+cat_n_jewelry=0
+cat_n_unknown=0
+---OLOG---
+[GEST] none local=-1977,5237 PH=838
+[TAP] raw=5931,25405 -> -1163,5719 rot=-1 local=-1963,5186 scroll=0 max=0 moved=false
+[GEST] none local=-4767,-9063 PH=838
+[GEST] none local=-2062,4743 PH=838
+[TAP] raw=4483,24146 -> -1760,5773 rot=-1 local=-2560,5240 scroll=0 max=0 moved=false
+[GEST] none local=-2096,4552 PH=838
+[GEST] none local=-4320,-9692 PH=838
+[GEST] none local=-4522,-8911 PH=838
+[TAP] raw=7128,4566 -> -3037,-9471 rot=-1 local=-3837,-10004 scroll=0 max=0 moved=false
+[GEST] none local=-1960,4781 PH=838
+[TAP] raw=5199,24628 -> -1480,5649 rot=-1 local=-2280,5116 scroll=0 max=0 moved=false
+[GEST] none local=-2407,5371 PH=838
+[GEST] none local=-2166,4479 PH=838
+[TAP] raw=4798,24964 -> -1571,6138 rot=-1 local=-2371,5605 scroll=0 max=0 moved=false
+[GEST] none local=-1978,5015 PH=838
+[TAP] raw=7433,24632 -> -770,4223 rot=-1 local=-1570,3690 scroll=0 max=0 moved=false
+[GEST] none local=-2010,4704 PH=838
+[TAP] raw=7341,24837 -> -777,4424 rot=-1 local=-1577,3891 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=-1986,4721 PH=838
+[TAP] raw=4863,24873 -> -1560,6033 rot=-1 local=-2360,5500 scroll=0 max=0 moved=false
+[GEST] none local=-4553,-9222 PH=838
+[TAP] raw=6999,3682 -> -3173,-10000 rot=-1 local=-3973,-10533 scroll=0 max=0 moved=false
+[GEST] none local=-2097,4787 PH=838
+[TAP] raw=7756,3413 -> -2962,-10670 rot=-1 local=-3762,-11203 scroll=0 max=0 moved=false
+[GEST] none local=-3967,-10895 PH=838
+[TAP] raw=10579,2699 -> -2142,-12970 rot=-1 local=-2942,-13503 scroll=0 max=0 moved=false
+[GEST] none local=-4030,-11590 PH=838
+[TAP] raw=8224,2181 -> -2946,-11822 rot=-1 local=-3746,-12355 scroll=0 max=0 moved=false
+[*] frame 79800 fps=34 tap=51 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[GEST] none local=-4032,-11125 PH=838
+[GEST] none local=-1601,4425 PH=838
+[GEST] none local=-1707,6028 PH=838
+[TAP] raw=7044,27135 -> -623,6204 rot=-1 local=-1423,5671 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 80100 fps=33 tap=52 hidden=false [K0=0/null 1=9/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[GEST] none local=-3868,-11062 PH=838
+[GEST] none local=-1603,3364 PH=838
+[TAP] raw=8267,22309 -> -756,2082 rot=-1 local=-1556,1549 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=-1634,1707 PH=838
+[TAP] raw=8020,21910 -> -878,1964 rot=-1 local=-1678,1431 scroll=0 max=0 moved=false
+[GEST] none local=-1757,1590 PH=838
+[GEST] none local=-1757,1571 PH=838
+[TAP] raw=7786,21888 -> -954,2098 rot=-1 local=-1754,1565 scroll=0 max=0 moved=false
+[GEST] none local=-1712,1479 PH=838
+[GEST] none local=-1718,1420 PH=838
+[TAP] raw=7928,21812 -> -917,1955 rot=-1 local=-1717,1422 scroll=0 max=0 moved=false
+[GEST] none local=-1777,1542 PH=838
+[GEST] none local=-1614,2603 PH=838
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 80400 fps=33 tap=56 hidden=false [K0=0/null 1=4/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[TAP] raw=6926,23451 -> -1059,3730 rot=-1 local=-1859,3197 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 80700 fps=34 tap=57 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 81000 fps=32 tap=57 hidden=false [K0=0/null 1=4/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 81300 fps=33 tap=57 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 81600 fps=32 tap=57 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 81900 fps=36 tap=57 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 82200 fps=33 tap=57 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=93,-731 PH=838
+[GEST] scroll local=340,835 maxScroll=0
+[*] frame 82500 fps=34 tap=57 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[TAP] raw=13922,27381 -> 1589,1977 rot=-1 local=789,1444 scroll=0 max=0 moved=true
+[GEST] none local=807,1406 PH=838
+[GEST] drag local=595,57
+[TAP] raw=13561,27448 -> 1481,2254 rot=-1 local=615,430 scroll=0 max=0 moved=false
+[GEST] scroll local=681,258 maxScroll=0
+[GEST] none local=451,-1217 PH=838
+[TAP] raw=13822,27342 -> 1553,2014 rot=-1 local=667,190 scroll=0 max=0 moved=true
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] scroll local=644,236 maxScroll=0
+[GEST] none local=542,-408 PH=838
+[TAP] raw=13412,27534 -> 1443,2409 rot=-1 local=557,585 scroll=0 max=0 moved=true
+[GEST] none local=270,1161 PH=838
+[GEST] scroll local=152,403 maxScroll=0
+[*] frame 82800 fps=46 tap=61 hidden=false [K0=0/null 1=2/BP_UamAICharacter_C 2=3/BP_DeathBoxScav2_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[TAP] raw=12793,24049 -> 869,392 rot=-1 local=-17,-1432 scroll=0 max=0 moved=true
+[GEST] none local=-129,-1206 PH=838
+[GEST] none local=245,1191 PH=838
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[TAP] raw=11797,22871 -> 426,214 rot=-1 local=-460,-1610 scroll=0 max=0 moved=false
+[GEST] none local=-1863,1214 PH=838
+[GEST] none local=-2130,-534 PH=838
+[*] frame 83100 fps=46 tap=63 hidden=false [K0=0/null 1=4/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[TAP] raw=7595,20623 -> -1152,1344 rot=-1 local=-2038,-480 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 83400 fps=45 tap=64 hidden=false [K0=0/null 1=6/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 83700 fps=45 tap=64 hidden=false [K0=0/null 1=6/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 84000 fps=45 tap=64 hidden=false [K0=0/null 1=6/BP_UamAICharacter_C 2=2/BP_ContainerBase_C 3=0/null 4=0/null ]
+[GEST] none local=-4410,4294 PH=838
+[GEST] none local=-4286,4850 PH=838
+[TAP] raw=590,21768 -> -3254,6616 rot=-1 local=-4140,4792 scroll=0 max=0 moved=false
+[GEST] none local=-4213,4939 PH=838
+[GEST] none local=-4253,4676 PH=838
+[TAP] raw=883,22106 -> -3124,6663 rot=-1 local=-4010,4839 scroll=0 max=0 moved=false
+[GEST] none local=1368,-5984 PH=838
+[TAP] raw=17810,28930 -> 2992,563 rot=-1 local=2106,-1261 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 84300 fps=45 tap=67 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[GEST] none local=-2269,7544 PH=838
+[TAP] raw=4040,2070 -> -4288,-9224 rot=-1 local=-5174,-11048 scroll=0 max=0 moved=false
+[GEST] none local=-2311,-16809 PH=838
+[GEST] none local=258,-346 PH=838
+[TAP] raw=12933,25927 -> 1117,1603 rot=-1 local=231,-221 scroll=0 max=0 moved=false
+[GEST] none local=1956,-3691 PH=838
+[TAP] raw=18360,29430 -> 3220,557 rot=-1 local=2334,-1267 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=2217,-1030 PH=838
+[TAP] raw=17990,28820 -> 3037,371 rot=-1 local=2151,-1453 scroll=0 max=0 moved=false
+[GEST] none local=-991,4871 PH=838
+[TAP] raw=8100,1950 -> -3011,-11903 rot=-1 local=-3897,-13727 scroll=0 max=0 moved=false
+[GEST] none local=-5133,-11239 PH=838
+[GEST] none local=-5112,-11154 PH=838
+[TAP] raw=4295,1956 -> -4219,-9466 rot=-1 local=-5105,-11290 scroll=0 max=0 moved=false
+[GEST] none local=-2606,-16319 PH=838
+[TAP] raw=12160,10790 -> -765,-8380 rot=-1 local=-1651,-10204 scroll=0 max=0 moved=false
+[GEST] none local=99,-13727 PH=838
+[*] frame 84600 fps=45 tap=74 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=3/BP_ContainerBase_C 3=0/null 4=0/null ]
+[TAP] raw=17670,28360 -> 2886,258 rot=-1 local=2000,-1566 scroll=0 max=0 moved=false
+[GEST] none local=2050,-1669 PH=838
+[TAP] raw=17830,28860 -> 2990,501 rot=-1 local=2104,-1323 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=-2324,7591 PH=838
+[TAP] raw=3890,1800 -> -4365,-9315 rot=-1 local=-5251,-11139 scroll=0 max=0 moved=false
+[GEST] none local=-2356,-16964 PH=838
+[GEST] none local=-887,-7538 PH=838
+[TAP] raw=12951,15410 -> -14,-5688 rot=-1 local=-900,-7512 scroll=0 max=0 moved=false
+[GEST] none local=923,-11182 PH=838
+[GEST] none local=2361,-1975 PH=838
+[TAP] raw=18680,28722 -> 3246,-137 rot=-1 local=2360,-1961 scroll=0 max=0 moved=false
+[GEST] none local=720,1338 PH=838
+[GEST] none local=323,-1195 PH=838
+[TAP] raw=12566,27057 -> 1123,2619 rot=-1 local=237,795 scroll=0 max=0 moved=false
+[GEST] none local=-3692,8703 PH=838
+[GEST] none local=-4257,4848 PH=838
+[TAP] raw=4026,22810 -> -2049,5140 rot=-1 local=-2935,3316 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[GEST] none local=-739,-1105 PH=838
+[*] frame 84900 fps=45 tap=81 hidden=false [K0=0/null 1=0/null 2=0/null 3=0/null 4=0/null ]
+[GEST] none local=-864,-1908 PH=838
+[TAP] raw=6363,24179 -> -1159,4594 rot=-1 local=-2045,2770 scroll=0 max=0 moved=false
+[GEST] none local=-2049,2778 PH=838
+[GEST] none local=-2562,-15184 PH=838
+[TAP] raw=8348,4363 -> -2671,-10391 rot=-1 local=-3557,-12215 scroll=0 max=0 moved=false
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 85200 fps=45 tap=83 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/Inventory_071_NewSafeBox_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 85500 fps=46 tap=83 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/Inventory_071_NewSafeBox_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条
+[*] frame 85800 fps=45 tap=83 hidden=false [K0=0/null 1=5/BP_UamAICharacter_C 2=2/Inventory_071_NewSafeBox_C 3=0/null 4=0/null ]
+[*] 容器类别表 35 条
+[*] 装备等级表 21 条

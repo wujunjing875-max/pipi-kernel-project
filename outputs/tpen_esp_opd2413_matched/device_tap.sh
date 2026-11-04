@@ -1,0 +1,10 @@
+#!/system/bin/sh
+sendevent /dev/input/event5 3 53 10620
+sendevent /dev/input/event5 3 54 21500
+sendevent /dev/input/event5 3 57 511
+sendevent /dev/input/event5 1 330 1
+sendevent /dev/input/event5 0 0 0
+usleep 70000
+sendevent /dev/input/event5 1 330 0
+sendevent /dev/input/event5 3 57 -1
+sendevent /dev/input/event5 0 0 0

@@ -1,0 +1,17 @@
+===FPS===
+fps want=30 got=30 attempts=2
+fps want=60 got=60 attempts=1
+fps want=90 got=90 attempts=1
+fps want=120 got=120 attempts=4
+fps want=144 got=144 attempts=1
+fps want=60 got=60 attempts=3
+===PRICE===
+price want=2000 got=2000 attempts=0
+price want=5000 got=5000 attempts=1
+price want=10000 got=10000 attempts=1
+price want=20000 got=20000 attempts=2
+price want=25000 got=25000 attempts=2
+price want=2000 got=2000 attempts=1
+===FINAL===
+fps=60
+price=2000

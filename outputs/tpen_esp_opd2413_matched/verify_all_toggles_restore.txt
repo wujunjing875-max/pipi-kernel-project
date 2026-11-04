@@ -1,0 +1,26 @@
+k0 before=1 want=1 after=1 attempts=0
+k1 before=1 want=1 after=1 attempts=0
+k2 before=0 want=1 after=1 attempts=2
+bone before=0 want=1 after=1 attempts=3
+lab before=1 want=1 after=1 attempts=0
+k3 before=0 want=1 after=1 attempts=1
+k4 before=1 want=1 after=1 attempts=0
+abar before=0 want=1 after=1 attempts=1
+dec before=0 want=1 after=1 attempts=1
+dec2 before=1 want=0 after=0 attempts=2
+dec3 before=1 want=1 after=1 attempts=0
+dec4 before=0 want=1 after=1 attempts=1
+===RESTORED_FINAL===
+k0=1
+k1=1
+k2=1
+k3=1
+k4=1
+bone=1
+lab=1
+abar=1
+dec=1
+dec2=0
+dec3=1
+dec4=1
+files=1,0,1,1

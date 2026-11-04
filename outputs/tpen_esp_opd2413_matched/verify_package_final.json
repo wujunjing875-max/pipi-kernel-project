@@ -1,0 +1,165 @@
+{
+  "zip": "F:\\CodexWork\\tpen-esp\\outputs\\tpen_esp_opd2413_matched\\tpen_esp_opd2413_matched.zip",
+  "zip_bytes": 4306040,
+  "zip_sha256": "9A5FA9916959D52A4EE5FCEEA7F4FC341BD750AC363D73E2CDFB20990A3BCD12",
+  "zip_entries": [
+    "driver.sh",
+    "process.sh"
+  ],
+  "zip_test": null,
+  "zip_rows": [
+    {
+      "name": "driver.sh",
+      "bytes": 3463679,
+      "sha256": "D20E85C46DB354660B43F73F4F9A07C7F8FC150E0E343525EB9F3ED382DA7FE8",
+      "package_equal": true,
+      "mode": "0o100755"
+    },
+    {
+      "name": "process.sh",
+      "bytes": 4358022,
+      "sha256": "C6534E20E7EF40C9FFBCBEE559F54B84E83E7F94CFFD0FC4D13F80542EFB3E3E",
+      "package_equal": true,
+      "mode": "0o100755"
+    }
+  ],
+  "blocks": [
+    {
+      "role": "driver.sh",
+      "tag": "510",
+      "bytes": 430476,
+      "sha256": "10D9002963A70DC5363482AADAB42026F9A8AAD60C18A5C34E8CA47739D6CF0D",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\drivers\\drv_510.sh",
+      "equal": true
+    },
+    {
+      "role": "driver.sh",
+      "tag": "515",
+      "bytes": 465426,
+      "sha256": "16415EF906AD55A77D23C65D9805E86C39E749CC7BA9DDBC4C3D0D8EE5F97D4B",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\drivers\\drv_515.sh",
+      "equal": true
+    },
+    {
+      "role": "driver.sh",
+      "tag": "61",
+      "bytes": 462802,
+      "sha256": "E4A7893F0063636490121E2F351FDD7AA0736CC94B36F3F51BCCC497A1D00EAF",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\drivers\\drv_61.sh",
+      "equal": true
+    },
+    {
+      "role": "driver.sh",
+      "tag": "612",
+      "bytes": 428291,
+      "sha256": "D22DC7DB7DB688A221D4CB51C68C1508CE2C9F72334E4438C51B4B799B10B8E5",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\drivers\\drv_612.sh",
+      "equal": true
+    },
+    {
+      "role": "driver.sh",
+      "tag": "618",
+      "bytes": 403424,
+      "sha256": "36A3CD4841D341F302BC9DB1718B294542E5DE6613A08E3632DE32D9DC3ABCCD",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\drivers\\drv_618.sh",
+      "equal": true
+    },
+    {
+      "role": "driver.sh",
+      "tag": "66",
+      "bytes": 373155,
+      "sha256": "3AB7F13101B64A93B54A484AFBC68F794564BD9889E47E620DD114242DDA8E3F",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\drivers\\drv_66.sh",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "P",
+      "bytes": 39664,
+      "sha256": "0B7E51D93C5E36CF5BE2DB617FB332BAFB76395B0B4AEA8436E13FD5C23C33E3",
+      "expected": "F:\\CodexWork\\tpen-esp\\outputs\\tpen_esp_opd2413_matched\\MODIFIED_FILE\\out\\p",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "DEX",
+      "bytes": 63612,
+      "sha256": "2F2EB666FBC23453F3FF76CB4B3B8F7F050D04330D3BAA62D6D8137AE3ED3193",
+      "expected": "F:\\CodexWork\\tpen-esp\\outputs\\tpen_esp_opd2413_matched\\MODIFIED_FILE\\out\\classes.dex",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "GPNG",
+      "bytes": 2877858,
+      "sha256": "16F79454D63ADD22CF2E41010CABC9D0CDAAFC76AD911701EDE102EC80E2CCD6",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\g.png",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "GTXT",
+      "bytes": 165066,
+      "sha256": "3AA72C1794FC7F4BA9CEEB8BEE294C0EA69EE3A6BF329C2600722B8D3045ED7D",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\g.txt",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "UIPNG",
+      "bytes": 72890,
+      "sha256": "C39B6FE0B9E282D9244BBD3A0CFCD7D5A9F653F0412EAEDAC99265EA59B0CA32",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\ui.png",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "UITXT",
+      "bytes": 1062,
+      "sha256": "3464DF5F583D51A803E3E5F240A3596853EE2440B4DB23A9733F19ABB71D696D",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\ui.txt",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "CTYPE",
+      "bytes": 1053,
+      "sha256": "3A5A889F39D3166C388D0335903F04F7D43ACBB3B0E09F97306CA6E258BB4E0B",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\ctype.txt",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "LEVEL",
+      "bytes": 420,
+      "sha256": "737C20AC9CBF5AFA2812BA662747D5F283E88B433DBB91E7D910207CC0ADCCE3",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\level.txt",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "NAME",
+      "bytes": 1496,
+      "sha256": "74F247DC5376C39BAD17EB1FCCDD45C20C11CAD9D031F4A00493F051877C2663",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\name.txt",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "PRICE",
+      "bytes": 808,
+      "sha256": "144C0D2722B1264E35CA56C3BCAA385642F13ED45C2A139C8E5C59123C8A5334",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\price.txt",
+      "equal": true
+    },
+    {
+      "role": "process.sh",
+      "tag": "SKIP",
+      "bytes": 192,
+      "sha256": "5DC4134D16F704A080C5D90EFFE9B0C15ACBA1951D64840270D7F2D03E54FBF9",
+      "expected": "F:\\CodexWork\\tpen-esp\\tpen_v33\\TPEN_ESP_v33\\assets\\skip.txt",
+      "equal": true
+    }
+  ],
+  "block_fail": 0
+}

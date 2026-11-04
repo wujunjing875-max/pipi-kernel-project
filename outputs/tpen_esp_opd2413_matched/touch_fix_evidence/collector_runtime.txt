@@ -1,0 +1,14 @@
+---proc---
+Name:	kworker/u16:2
+State:	S (sleeping)
+Pid:	13884
+PPid:	1
+---exe---
+---cmdline---
+kworker/u16:2        
+---output---
+-rw-r--r-- 1 root root 276 2026-10-30 15:16 /data/local/tmp/.c/p.log
+module bases: maps=0x7a5c0a9000 driver_rc=0 driver=0x7a5c0a9000
+target pid=27330 fd=10 libUE4=0x7a5c0a9000 end=0x7a6d5b6000 arena=0x711c0a9000-0x7a5c0a9000
+runtime world scan: world_class=0x737c0daa80 level_class=0x737c43ad20 world=0x74bc7cdcb0 actors=62
+[cal] ctrl_off=0x348

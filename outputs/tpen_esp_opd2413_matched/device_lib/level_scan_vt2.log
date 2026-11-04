@@ -1,0 +1,12 @@
+pid=27330 lib=0x7a5c0a9000-0x7a6d5b6000 ranges=879
+level_candidate level=0x7bde6051d8 class=0x73bcd5b330 class_idx=7720941 actors_off=0x350 actors=0x71dc5883f0 count=53 cap=56 sample_objects=30
+level_candidate level=0x7bde605268 class=0x73bceb3330 class_idx=7681734 actors_off=0x2c0 actors=0x71dc5883f0 count=53 cap=56 sample_objects=30
+level_candidate level=0x7bde6052f8 class=0x73bce58660 class_idx=7719083 actors_off=0x230 actors=0x71dc5883f0 count=53 cap=56 sample_objects=30
+level_candidate level=0x7bde605418 class=0x73bc542990 class_idx=7720876 actors_off=0x110 actors=0x71dc5883f0 count=53 cap=56 sample_objects=30
+level_candidate level=0x7bde6054a8 class=0x73bcc7ecc0 class_idx=7720437 actors_off=0x80 actors=0x71dc5883f0 count=53 cap=56 sample_objects=30
+level_candidate level=0x7bde606078 class=0x73bceab330 class_idx=7681801 actors_off=0x350 actors=0x71dc5883f0 count=56 cap=56 sample_objects=30
+level_candidate level=0x7bde606108 class=0x73bcebb330 class_idx=7719007 actors_off=0x2c0 actors=0x71dc5883f0 count=56 cap=56 sample_objects=30
+level_candidate level=0x7bde606198 class=0x73bce78660 class_idx=7681886 actors_off=0x230 actors=0x71dc5883f0 count=56 cap=56 sample_objects=30
+level_candidate level=0x7bde6062b8 class=0x73bce39cc0 class_idx=7681561 actors_off=0x110 actors=0x71dc5883f0 count=56 cap=56 sample_objects=30
+level_scan pages=116068 uobjects=62993 hits=9
+world_hits=0

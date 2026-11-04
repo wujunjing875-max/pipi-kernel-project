@@ -1,0 +1,36 @@
+{
+  "files": {
+    "driver.sh": {
+      "bytes": 3463679,
+      "sha256": "D20E85C46DB354660B43F73F4F9A07C7F8FC150E0E343525EB9F3ED382DA7FE8"
+    },
+    "process.sh": {
+      "bytes": 4358026,
+      "sha256": "8CFC659388E6F4BC10CB472384597482CDBEBEBFC027028F17F39836B958AFCE"
+    }
+  },
+  "zip": {
+    "bytes": 4306045,
+    "sha256": "40C41498E2749B03DD1126E595B581C48306DB90213CCDD3194CBE2D88E5924A",
+    "testzip": null,
+    "names": [
+      "driver.sh",
+      "process.sh"
+    ],
+    "entries": {
+      "driver.sh": {
+        "mode": "0o100755",
+        "bytes": 3463679,
+        "sha256": "D20E85C46DB354660B43F73F4F9A07C7F8FC150E0E343525EB9F3ED382DA7FE8",
+        "matches_package": true
+      },
+      "process.sh": {
+        "mode": "0o100755",
+        "bytes": 4358026,
+        "sha256": "8CFC659388E6F4BC10CB472384597482CDBEBEBFC027028F17F39836B958AFCE",
+        "matches_package": true
+      }
+    }
+  },
+  "pass": true
+}

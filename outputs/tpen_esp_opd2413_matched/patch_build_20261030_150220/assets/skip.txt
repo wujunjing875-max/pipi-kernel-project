@@ -1,0 +1,7 @@
+# 物资忽略表：关键字(小写, 子串匹配) 命中就不绘制
+# 用于过滤「被误认成物资的地图物件」，改完 5 秒生效
+guwu
+spawnpoint
+playerstart
+birthpoint
+bullet
