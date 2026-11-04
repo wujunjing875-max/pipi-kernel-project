@@ -285,3 +285,10 @@ CORRECTED ERRORS RETAINED IN THIS FOLLOW-UP
 
 ACCEPTED FINAL STATE
 Device remains running the corrected final process package with menu visible and centered. Tested values were restored to their pre-test values. Only the packaging touch transform changed in this follow-up.
+
+================================================================
+GITHUB PUBLICATION FOLLOW-UP (2026-11-05)
+Supplemental record: F:\CodexWork\tpen-esp\outputs\tpen_esp_opd2413_matched\GITHUB_PUBLICATION.txt
+Repository: https://github.com/wujunjing875-max/pipi-kernel-project
+Observed state before publication-record commit: PUBLIC, default main, six branches, remote tree not truncated, README 5444 bytes with explicit 皮皮内核项目 attribution, LFS object uploaded.
+Original device/package BASELINE, MODIFIED, and ROLLBACK behaviors remain unchanged; this follow-up changed only the independent publishing copy and this verification ledger.

@@ -1,0 +1,44 @@
+GITHUB PUBLICATION RECORD
+Date: 2026-11-05 (Asia/Kuala_Lumpur)
+Project attribution: 皮皮内核项目
+Repository: https://github.com/wujunjing875-max/pipi-kernel-project
+Owner: wujunjing875-max
+Visibility: PUBLIC
+Default branch: main
+Description: 皮皮内核项目｜TPEN ESP 全量源码、构建产物与验证资料
+
+SOURCE AND STAGING
+Authoritative source: F:\CodexWork\tpen-esp
+Independent publishing copy: D:\CodexWork\pipi-kernel-project
+Copied non-.git files: 608
+Published main blobs before this record: 609 (608 project files plus .gitattributes)
+Nested temporary .git metadata was not published; all nested worktree file contents were published.
+
+BRANCHES PUBLISHED
+HIS
+feat/aimbot
+feat/decrypt
+feat/single-trans
+main
+master
+
+LARGE FILE HANDLING
+Path: outputs/tpen_esp_opd2413_matched/device_lib/libUE4.so
+Original bytes: 280383432
+Git LFS oid: sha256:2b90c9218667363b2046cf15fcf8259aaa95fed34109e31355f5da2a19077449
+Remote main stores the 134-byte LFS pointer and the push uploaded the full 280 MB LFS object successfully.
+
+OBSERVED PUSH RESULTS
+main: LFS 1/1 280 MB uploaded; main -> main; exit=0.
+Other branches: HIS, master, feat/aimbot, feat/decrypt, feat/single-trans created; exit=0.
+Tags: everything up-to-date; exit=0.
+Remote API: visibility PUBLIC, defaultBranch main, tree truncated=false.
+README restored remote size: 5444 bytes; title and explicit attribution observed.
+Pre-record content commit: e1fec62
+
+CORRECTED EXECUTION ERRORS
+1. First F: publishing clone failed with "No space left on device"; Git removed the incomplete directory. D: had 140.74 GB free and was used under D:\CodexWork.
+2. First attribution insertion truncated the publishing-copy README to 108 bytes. GitHub API exposed the mismatch; README was restored from the untouched source to 5444 bytes, 139 lines, committed, pushed, and reread remotely.
+
+ACCEPTANCE
+The repository is public, main is the default branch, all six branches exist, the complete non-.git project file set is tracked, ignored build artifacts are included, and the only >100 MB file is backed by Git LFS.
